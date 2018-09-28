@@ -1,0 +1,18 @@
+---
+author: SeanFromIT
+comments: true
+date: 2008-01-17 15:50:00+00:00
+layout: post
+link: https://feeney.mba/2008/01/17/sun-buys-mysql-for-1000000000/
+slug: sun-buys-mysql-for-1000000000
+title: Sun buys MySQL for $1,000,000,000
+wordpress_id: 220
+categories:
+- mysql
+- open source
+- sun
+---
+
+<blockquote>“We’re putting a billion dollars behind the M in LAMP,” said Sun CEO Jonathan Schwartz as he announced the deal to the public at his blog this morning. Schwartz cited a main reason for the deal as the opportunity for a Fortune 500 vendor - Sun - to offer the kind of mission critical global support that up to now has given commercial vendors such as Oracle and Microsoft the edge.</blockquote>
+
+It is clear that there is money to be made in Open Source projects.

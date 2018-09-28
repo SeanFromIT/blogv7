@@ -1,0 +1,169 @@
+---
+layout: default
+---
+			<section id="photo">
+				<div class="thatching">&nbsp;</div>
+			</section>
+			<div id="triangleBar">&nbsp;</div>
+			<section id="about">
+				I'm an experienced technology executive who bridges the divide between Dev and Ops.
+				I help companies big and small develop and execute their technology strategy.
+				I am a firm believer that complexity is toxic.
+				There's an art to developing and implementing conceptually simple -
+				yet operationally and functionally robust -
+				solutions and with the whiteboard as my palette I have shown company after company that transformation is achievable.
+			</section>
+			<section id="blog">
+				<div class="sectionHeader">
+					<h4>Tech Blog</h4>
+					<div class="sectionIcon"><a title="atom feed" href="/feed.xml"><i class="fas fa-rss-square"></i></a></div>
+					<div id="subscribe">subscribe by email</div>
+				</div>
+				{% for post in site.posts limit:10 %}
+					<a class="button" title="{{ post.title }} {{ post.date | date: "%-d %B %Y" }}" href="{{ post.url }}">
+					{% capture type %}
+						{% if post.type == "video" %}
+							<i class="fas fa-video"></i>
+						{% elsif post.type == "graphic" %}
+							<i class="fas fa-image"></i>
+						{% elsif post.type == "code" %}
+							<i class="fas fa-code"></i>
+						{% else %}
+							<i class="fas fa-paper-plane"></i>
+						{% endif %}
+					{% endcapture %}
+					{{ type }}{{ post.title }} ({{ post.date | date: "%-d %B %Y" }})</a>
+				{% endfor %}
+				<div class="more">
+					<a class="button2" title="All Posts" href="/tags/">All Posts</a>
+				</div>
+			</section>
+			<section id="works">
+				<div class="sectionHeader">
+					<h4>Highlighted Works</h4>
+					<div class="sectionIcon"><i class="far fa-newspaper"></i></div>
+				</div>
+				{% assign works = site.works | sort: 'date' | reverse %}
+				{% for thing in works limit:10 %}
+					{% capture type %}
+						{% if thing.type == "video" %}
+							<i class="fas fa-video"></i>
+						{% elsif thing.type == "graphic" %}
+							<i class="fas fa-image"></i>
+						{% elsif thing.type == "deck" %}
+							<i class="far fa-newspaper"></i>
+						{% elsif thing.type == "post" %}
+							<i class="fas fa-paper-plane"></i>
+						{% elsif thing.type == "code" %}
+							<i class="fas fa-code"></i>
+						{% endif %}
+					{% endcapture %}
+					{% assign protocol = thing.externalLink | slice: 0, 4 %}
+					{% capture target %}
+						{% if protocol == "http" %}
+							target="_blank"
+						{% endif %}
+					{% endcapture %}
+					<a class="button" title="{{ thing.title }} {{ thing.date | date: "%-d %B %Y" }}" {{ target }} href="{{ thing.externalLink }}">
+					{{ type }}{{ thing.title }} ({{ thing.date | date: "%-d %B %Y" }})</a>
+				{% endfor %}
+			</section>
+			<section id="civics">
+				<div class="sectionHeader">
+					<h4>Civic Involvement</h4>
+					<div class="sectionIcon"><a title="my political site" href="https://feeney.democrat"><i class="fas fa-globe-americas"></i></a></div>
+				</div>
+				{% assign press = site.press | sort: 'date' | reverse %}
+				{% for article in press limit:10 %}
+					{% if article.political == true %}
+						<a class="button" title="{{ article.headline }} {{ article.date | date: "%-d %B %Y" }}" target="_blank" href="{{ article.externalLink }}">
+						{% capture type %}
+							{% if article.type == "newspaper" %}
+								<i class="fas fa-newspaper"></i>
+							{% elsif article.type == "video" %}
+								<i class="fas fa-video"></i>
+							{% endif %}
+						{% endcapture %}
+						{{ type }}{{ article.headline }} ({{ article.date | date: "%-d %B %Y" }})</a>
+					{% endif %}
+				{% endfor %}
+				<script>
+					var leftsidePhotos = [
+						'<span title="ProSpace Lobbying in DC: March 10, 2002"><img alt="ProSpace Lobbying in DC: March 10, 2002" src="/assets/img/civics/DVC00061.jpg" /></span>',
+						'<span title="AFL-CIO Candidate Night w/Jerry Springer: Oct. 1, 2014"><img alt="AFL-CIO Candidate Night w/Jerry Springer: Oct. 1, 2014" src="/assets/img/civics/JerrySpringer_web.jpg" /></span>',
+						'<span title="Fracking Protest: Oct. 11, 2014"><img alt="Fracking Protest: Oct. 11, 2014" src="/assets/img/civics/Frackdown1.jpg" /></span>',
+						'<span title="Dems Slate Endorsement at UAW: May 29, 2014"><img alt="Dems Slate Endorsement at UAW: May 29, 2014" src="/assets/img/civics/DemParty-2014candidatesthumbsup.jpg" /></span>',
+						'<span title="Press Conference: Oct. 28, 2014"><img alt="Press Conference: Oct. 28, 2014" src="/assets/img/civics/CranleyPressConference.jpg" /></span>',
+						'<span title="Big Lake City Council: May 23, 2018"><img alt="Big Lake City Council: May 23, 2018" src="/assets/img/civics/biglakeCouncil.JPG" /></span>',
+						'<span title="NCH Memorial Day Parade: May 28, 2016"><img alt="NCH Memorial Day Parade: May 28, 2016" src="/assets/img/civics/20160528_112904.jpg" /></span>',
+						'<span title="May Day March w/SEIU: May 1, 2014"><img alt="May Day March w/SEIU: May 1, 2014" src="/assets/img/civics/20140501_182012.jpg" /></span>',
+						'<span title="Camp Wellstone: May 20, 2018"><img alt="Camp Wellstone: May 20, 2018" src="/assets/img/civics/2018CampWellstone.jpg" /></span>',
+						'<span title="Press Conference: Aug. 8, 2014"><img alt="Press Conference: Aug. 8, 2014" src="/assets/img/civics/MusicHallPressConference.jpg" /></span>'
+					];
+					var featuredPhotos = [
+						'<span title="NCH Community Forum: July 21, 2010"><img alt="NCH Community Forum: July 21, 2010" src="/assets/img/civics/DSC00617_web-1024x614.jpg" /></span>',
+						'<span title="GOTV: Election Day 2014"><img alt="GOTV: Election Day 2014" src="/assets/img/civics/2014election.jpg" /></span>',
+						'<span title="USPSA Youth Conference: July 2008"><img alt="USPSA Youth Conference: July 2008" src="/assets/img/civics/feeney-dc-1024x768.jpg" /></span>',
+						'<span title="NCH City Council: April 20, 2015"><img alt="NCH City Council: April 20, 2015" src="/assets/img/civics/CityCouncil420.JPG" /></span>',
+						'<span title="NCH Charter Committee: April 8, 2015"><img alt="NCH Charter Committee: April 8, 2015" src="/assets/img/civics/April8_4.JPG" /></span>',
+						'<span title="Finnytown Civic Association: Oct. 19, 2014"><img alt="Finnytown Civic Association: Oct. 19, 2014" src="/assets/img/civics/20141019_191754.jpg" /></span>',
+						'<span title="VOA Groundbreaking: Sept. 15, 2016"><img alt="VOA Groundbreaking: Sept. 15, 2016" src="/assets/img/civics/2016-VOAGroundBreaking1.jpg" /></span>',
+						'<span title="NCH City Council: Aug. 1, 2016"><img alt="NCH City Council: Aug. 1, 2016" src="/assets/img/civics/2016-08-01CouncilMeeting2.PNG" /></span>',
+						'<span title="NCH City Council: Jan. 1, 2016"><img alt="NCH City Council: Jan. 1, 2016" src="/assets/img/civics/2016-01-01-NCH-City-Council-source-local12news.jpg" /></span>',
+						'<span title="Campaign 2015"><img alt="Campaign 2015" src="/assets/img/civics/2015campaign.jpg" /></span>',
+						'<span title="Democratic Leadership Institute: 2013"><img alt="Democratic Leadership Institute: 2013" src="/assets/img/civics/2013DLI1.jpg" /></span>'
+					];
+
+					function randomPhoto(photoArray) {
+						var copy = photoArray.slice(0);
+						return function() {
+							if (copy.length < 1) { 
+								copy = photoArray.slice(0); 
+							}
+							var index = Math.floor(Math.random() * copy.length);
+							var item = copy[index];
+							copy.splice(index, 1);
+							return item;
+						};
+					}
+					
+					var randomLeftPhoto = randomPhoto(leftsidePhotos);
+					var randomFeaturedPhoto = randomPhoto(featuredPhotos);
+				</script>
+				<ul class="polaroids" style="width: 280px;">
+					<li>
+						<script>document.write(randomLeftPhoto()); document.close();</script>
+					</li>
+					<li>
+						<script>document.write(randomLeftPhoto()); document.close();</script>
+					</li>
+					<li class="messy">
+						<script>document.write(randomFeaturedPhoto()); document.close();</script>
+					</li>
+				</ul>
+			</section>
+			<section id="speaking">
+				<div class="sectionHeader">
+					<h4>Speaking</h4>
+					<div class="sectionIcon"><i class="far fa-comment"></i></div>
+				</div>
+				<div id="speakingOpps">
+					Minneapolis seems to have a lot of meetups.
+					With three kids my time is at a premium these days, but I'd love to be invited to speak at your event.
+					I probably don't have the free time to respond to your CFP unless you want to grab one of the works above.
+					I will, however, put time into a deck for your event if it's a fit.
+					Here are common topics I present on:
+					<ul>
+						<li>AWS and the cloud</li>
+						<li>DevOps</li>
+						<li>Open source</li>
+						<li>Datacenter migrations</li>
+						<li>Digital business strategy</li>
+						<li>Knowledge management</li>
+						<li>Legislative and/or corporate solutions to the student loan mess</li>
+						<li>The importance of youth, and a talent pipeline, in whatever business you think you're running</li>
+					</ul>
+					I also oblige hands-on workshop requests for the right audience and STEM competitive judging requests where possible.
+				</div>
+				<div class="clipBorder"><img alt="Sean Feeney" title="Sean Feeney" src="/assets/img/speaking.jpg" /></div>
+			</section>

@@ -1,0 +1,26 @@
+---
+layout: page
+permalink: /tags/
+title: Tags
+---
+<div id="archives">
+{% capture tags %}
+	{% for tag in site.categories %}
+		|{{ tag[0] }}
+	{% endfor %}
+{% endcapture %}
+{% assign sortedtags = tags | strip_newlines | split: '|' | sort_natural %}
+
+{% for tag in sortedtags %}
+	{% unless forloop.first %}
+		{% assign strippedtag = tag | strip %}
+		<h3 id="{{ strippedtag }}">{{ strippedtag }}</h3>
+		<a name="{{ strippedtag }}"></a>
+		<ul>
+		{% for post in site.categories[strippedtag] %}
+			<li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }} ({{ post.date | date: "%-d %B %Y" }})</a></li>
+		{% endfor %}
+		</ul>
+	{% endunless %}
+{% endfor %}
+</div>

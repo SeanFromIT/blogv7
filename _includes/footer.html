@@ -1,0 +1,227 @@
+			<section id="disclaimer">
+				You agree to my <a title="disclaimer" href="/new-disclaimer.html">disclaimer</a>, regardless of the decision in <a target="_blank" title="Nguyen v. B&N" href="https://scholar.google.com/scholar_case?case=11003811139217543321&hl=en&as_sdt=6&as_vis=1&oi=scholarr">Nguyen v. B&N</a>.
+			</section>
+			<section id="social">
+				<div class="footerHeader">
+					<h4>Social</h4>
+					<div class="sectionIcon"><i class="far fa-share-square"></i></div>
+				</div>
+				<ul>
+				{% if site.linkedin_username %}
+					<li>
+						<a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+							<i class="fab fa-linkedin"></i> &nbsp;&nbsp;LinkedIn
+						</a>
+					</li>
+				{% endif %}
+				{% if site.twitter_username %}
+					<li>
+						<a href="https://twitter.com/{{ site.twitter_username }}">
+							<i class="fab fa-twitter"></i> &nbsp;Twitter
+						</a>
+					</li>
+				{% endif %}
+				{% if site.facebook_username %}
+					<li>
+						<a href="https://www.facebook.com/{{ site.facebook_username }}">
+							<i class="fab fa-facebook"></i> &nbsp;&nbsp;Facebook
+						</a>
+					</li>
+				{% endif %}
+				{% if site.google_plus_username %}
+					<li>
+						<a href="https://plus.google.com/+{{ site.google_plus_username }}">
+							<i class="fab fa-google-plus"></i> &nbsp;Google+
+						</a>
+					</li>
+				{% endif %}
+				{% if site.angellist_username %}
+					<li>
+						<a href="https://angel.co/{{ site.angellist_username }}">
+							<i class="fab fa-angellist"></i> &nbsp;&nbsp;AngelList
+						</a>
+					</li>
+				{% endif %}
+				{% if site.stack_overflow_username %}
+					<li>
+						<a href="https://stackexchange.com/users/{{ site.stack_overflow_username }}">
+							<i class="fab fa-stack-overflow"></i> &nbsp;&nbsp;Stack Overflow
+						</a>
+					</li>
+				{% endif %}
+				{% if site.slideshare_username %}
+					<li>
+						<a href="https://github.com/{{ site.slideshare_username }}">
+							<i class="fab fa-slideshare"></i> &nbsp;SlideShare
+						</a>
+					</li>
+				{% endif %}
+				{% if site.github_username %}
+					<li>
+						<a href="https://github.com/{{ site.github_username }}">
+							<i class="fab fa-github"></i> &nbsp;GitHub
+						</a>
+					</li>
+				{% endif %}
+				</ul>
+			</section>
+			<section id="causes">
+				<div class="footerHeader">
+					<h4>Causes</h4>
+					<div class="sectionIcon"><i class="fas fa-heart"></i></div>
+				</div>
+				<ul>
+					<li>
+						<a title="Student Loan Bill Tracker" target="_blank" href="https://studentloanbilltracker.com">Student Loan Bill Tracker</a>
+					</li>
+					<li>
+						<a title="The Anomaly Response Network" target="_blank" href="http://anomalyresponse.org">The Anomaly Response Network</a>
+					</li>
+					<li>
+						<a title="The Mars Society" target="_blank" href="https://www.marssociety.org">The Mars Society</a>
+					</li>
+					<li>
+						<a title="Coca-Cola Scholars Foundation" target="_blank" href="http://www.coca-colascholarsfoundation.org">Coca-Cola Scholars Foundation</a>
+					</li>
+					<li>
+						<a title="techstars Minneapolis" target="_blank" href="http://communities.techstars.com/usa/minneapolis/">techstars Minneapolis</a>
+					</li>
+					<li>
+						<a title="Leukemia & Lymphoma Society" target="_blank" href="http://www.lls.org">Leukemia &amp; Lymphoma Society</a>
+					</li>
+					<li>
+						<a title="Cystic Fibrosis Foundation" target="_blank" href="https://www.cff.org">Cystic Fibrosis Foundation</a>
+					</li>
+					<li>
+						<a title="PRISM" target="_blank" href="https://www.prismmpls.org">PRISM</a>
+					</li>
+					<li>
+						<a title="Free Bikes 4 Kidz" target="_blank" href="http://fb4k.org">Free Bikes 4 Kidz</a>
+					</li>
+					<li>
+						<a title="Cincinnati Works" target="_blank" href="http://www.cincinnatiworks.org">Cincinnati Works</a>
+					</li>
+					<li>
+						<a title="Cincinnati Youth Collaborative" target="_blank" href="http://www.cycyouth.org">Cincinnati Youth Collaborative</a>
+					</li>
+				</ul>
+				<script>
+					var causesPhotos = [
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/100_1012-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/100_1015-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/100_1019-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/official01-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/official02-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/official03-300x225.jpg" /></span>',
+						'<span title="Coca-Cola Scholars 2005"><img alt="Coca-Cola Scholars 2005" src="/assets/img/causes/official06-300x225.jpg" /></span>',
+						'<span title="The Giving Fields 2013"><img alt="The Giving Fields 2013" src="/assets/img/causes/9632505736_e529ce6233_o-300x229.jpg" /></span>',
+						'<span title="FB4K: 2017"><img alt="FB4K: 2017" src="/assets/img/causes/teambike.jpg" /></span>',
+						'<span title="Crew 52: 2018"><img alt="Crew 52: 2018" src="/assets/img/causes/crew52.png" /></span>',
+						'<span title="Crew 52: 2018"><img alt="Crew 52: 2018" src="/assets/img/causes/Crew52_ChadGreenway1_web.jpg" /></span>'
+					];
+					
+					var randomCausesPhoto = causesPhotos[Math.floor(Math.random() * causesPhotos.length)];
+				</script>
+				<ul class="polaroids" style="width: 280px;">
+					<li>
+						<script>document.write(randomCausesPhoto); document.close();</script>
+					</li>
+				</ul>
+			</section>
+			<section id="geni">
+				<div class="footerHeader">
+					<h4>Genealogy</h4>
+					<div class="sectionIcon"><i class="fab fa-pagelines"></i></div>
+				</div>
+				<br />
+				<div style="width: 100%; text-align: center;"><a title="Geni" target="_blank" href="https://www.geni.com"><img alt="I Love Geni" src="/assets/img/daddy_heart.gif" /></a></div>
+				<ul>
+					<li>
+						<a title="Feeney Genealogy Project" target="_blank" href="http://www.feeneygenealogy.com">Feeney Genealogy Project</a>
+					</li>
+				</ul>
+				<br />
+				<br />
+				<ul class="polaroids" style="width: 280px;">
+					<li class="leanRight">
+						<span title="O'Dowd Castle in Easkey, Co. Sligo, Ireland: Summer 2007"><img style="width: 100%" alt="O'Dowd Castle in Easkey, Co. Sligo, Ireland: Summer 2007" src="/assets/img/1927832_503680493383_727_n-300x225.jpg" /></span>
+					</li>
+				</ul>
+			</section>
+			<section id="recommended">
+				<div class="footerHeader">
+					<h4>Recommended</h4>
+					<div class="sectionIcon"><i class="fas fa-bullhorn"></i></div>
+				</div>
+				<p>Reading:</p>
+				<div style="margin-left: 15%;">
+					<script src="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fufoundergroun-20%2F8001%2F13b8e3fd-668c-4a38-a3f1-bbb6cc9573b0"></script>
+					<noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fufoundergroun-20%2F8001%2F13b8e3fd-668c-4a38-a3f1-bbb6cc9573b0&amp;Operation=NoScript">Amazon.com Widgets</a></noscript>
+				</div>
+				<p>Watching:</p>
+				<div style="margin-left: 15%;">
+					<script src="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fufoundergroun-20%2F8001%2F876eff7a-c941-4a24-a723-4c5614f34595"></script>
+					<noscript><a href="https://ws-na.amazon-adsystem.com/widgets/q?rt=tf_mfw&amp;ServiceVersion=20070822&amp;MarketPlace=US&amp;ID=V20070822%2FUS%2Fufoundergroun-20%2F8001%2F876eff7a-c941-4a24-a723-4c5614f34595&amp;Operation=NoScript">Amazon.com Widgets</a></noscript>
+				</div>
+			</section>
+			<footer>
+				<a title="StackExchange" target="_blank" href="https://stackexchange.com/users/311393/seanfromit"><img alt="StackExchange" src="https://stackexchange.com/users/flair/311393.png" /></a>
+				&nbsp;&nbsp;<script src="https://twittercounter.com/embed/?username=SeanFromIT&amp;style=avatar"></script><noscript><a href="https://twittercounter.com/SeanFromIT">Sean Feeney on Twitter Counter</a></noscript>
+				&nbsp;&nbsp;&nbsp;&nbsp;<iframe title='Quantcast Meter' scrolling='no' marginheight='0' marginwidth='0' height='60' width='120' src='https://widget.quantcast.com/p-11eG58csMgXm2/5'></iframe>
+				<div id="angelhack">
+					<a title="AngelList" target="_blank" href="https://angel.co/seanfromit?follow=1&type=User&id=148193"></a>
+					<script src="https://angel.co/javascripts/embed.js"></script>
+					<br /><a title="Creative Commons" target="_blank" href="https://creativecommons.org/licenses/by-nc-sa/3.0/"><img alt="" width="80" height="28" src="/assets/img/by-nc-sa.png" /></a>
+				</div>
+				<div class="eightyButtons">
+					<a title="Blog Catalog" target="_blank" href="https://www.blogcatalog.com/blogs/sean-feeney"><img alt="Blog Catalog" height="15" src="/assets/img/blogcatalog.gif" width="80" /></a>
+					<a title="Blogorama" target="_blank" href="http://www.blogarama.com/internet-blogs"><img src="https://www.blogarama.com/images/button_sm_2.gif" alt="Blogarama - Internet Blogs" /></a>
+				</div>
+				<div class="eightyButtons">
+					<a title="Listed in LS Blogs the Blog Directory and Blog Search Engine" target="_blank" href="https://www.lsblogs.com"><img alt="Listed in LS Blogs the Blog Directory and Blog Search Engine" height="15" src="/assets/img/lsblogs_small.gif" width="80" /></a>
+					<a title="Blog Flux" target="_blank" href="https://dir.blogflux.com"><img alt="Blog Flux Directory" height="15" src="/assets/img/blogflux80x15.gif" width="80" /></a>
+				</div>
+				<a style="margin-left: 15px;" href="https://internetdefenseleague.org"><img height="60" src="https://internetdefenseleague.org/images/badges/final/shield_badge.png" alt="Member of The Internet Defense League" /></a>
+				<br /><br />
+				<!-- feeney.mba footer ad -->
+				<ins class="adsbygoogle"
+					 style="display:block"
+					 data-ad-client="ca-pub-0099932842510810"
+					 data-ad-slot="3139552208"
+					 data-ad-format="auto"
+					 data-full-width-responsive="true">
+					<script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+				</ins>
+			</footer>
+		</div>
+		<script id="dsq-count-scr" src="//feeney.disqus.com/count.js" async></script>
+		<script>
+			window._idl = {};
+			_idl.variant = "modal";
+			(function() {
+				var idl = document.createElement('script');
+				idl.async = true;
+				idl.src = 'https://members.internetdefenseleague.org/include/?url=' + (_idl.url || '') + '&campaign=' + (_idl.campaign || '') + '&variant=' + (_idl.variant || 'modal');
+				document.getElementsByTagName('body')[0].appendChild(idl);
+			})();
+		</script>
+		<!-- Quantcast Tag -->
+		<script>
+			var _qevents = _qevents || [];
+			(function() {
+			var elem = document.createElement('script');
+			elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+			elem.async = true;
+			var scpt = document.getElementsByTagName('script')[0];
+			scpt.parentNode.insertBefore(elem, scpt);
+			})();
+			_qevents.push({
+			qacct:"p-11eG58csMgXm2"
+			});
+		</script>
+		<noscript>
+			<div style="display:none;">
+				<img src="//pixel.quantserve.com/pixel/p-11eG58csMgXm2.gif" height="1" width="1" alt="Quantcast"/>
+			</div>
+		</noscript>
+		<!-- End Quantcast tag -->
