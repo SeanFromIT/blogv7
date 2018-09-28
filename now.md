@@ -34,9 +34,9 @@ On the non-profit side, I generally spend my time with those addressing economic
 **How I prioritize all this:**
 
 In evaluating adding things to my life, I try to gauge its impact on:
-* My health and wellbeing
-* My family
-* Existing side projects and my career
+1. My health and wellbeing
+2. My family
+3. Existing side projects and my career
 
 Ideally it's something that I - and others - are passionate about and naturally improves the above.
 
@@ -47,7 +47,7 @@ Ideally it's something that I - and others - are passionate about and naturally 
 * Learn to play guitar
 * Visit the Johnson Space Center in Houston
 * Visit Jungfrau Park and its inspirations like the pyramids of Egypt, Easter Island, Incan ruins at Cusco and Machu Picchu, Mayan ruins at Teotihuacán and Chichen Itza
-* Fill in my National Parks Passport with places like Mesa Verde, the Grand Canyon, Yellowstone, Arches
+* Fill in my National Parks Passport with places like Mesa Verde, the Grand Canyon, Yellowstone, and Arches
 * Take the family camping & stargazing in a dark sky area
 * Spend more time in Italy, maybe Rome
 * More canoeing, maybe up at the boundary waters
