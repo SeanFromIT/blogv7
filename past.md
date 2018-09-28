@@ -76,10 +76,11 @@ title: Past
 * Rocked a fellowship with a Hollywood TV studio
 * Had a Chicago dog in Chicago, a New York-style pizza in New York City, a Philly Cheesesteak in Philadelphia and a Guinness in Dublin
 * Studied, lived and worked abroad
-* Visited 6 large breweries/distilleries and 18+ smaller ones across four countries incl. Germany
+* Been to 8 countries and 30 states
+* Toured 6 large breweries/distilleries and 18+ smaller ones across four countries incl. Germany
 * Biked 50+km of the [Wild Atlantic Way](https://www.wildatlanticway.com){:target="_blank"} in Co. Sligo, Ireland
 * Been on 9+ ghost tours across three countries
-* Visited Stonehenge
+* Took in Stonehenge
 * Rode on a gondola in both Venice and Vegas
 * Visited Big Ben and the British Parliament in London
 * Lobbied for increased NASA funding in Washington, D.C.
@@ -88,7 +89,7 @@ title: Past
 * Rehabbed a house
 * First generation in my family to graduate college, get a master's degree, and own a home
 * Kentucky Boys' State
-* Huntsville Space Camp (thanks Tyson Foods!) and visited the Kennedy Space Center/Cape Canaveral
+* Huntsville Space Camp/Marshall Space Flight Center (thanks Tyson Foods!) and went to the Kennedy Space Center/Cape Canaveral
 
 <ul class="polaroids" style="width: 100%">
 	<li>
