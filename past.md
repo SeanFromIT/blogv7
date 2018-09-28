@@ -77,7 +77,7 @@ title: Past
 * Had a Chicago dog in Chicago, a New York-style pizza in New York City, a Philly Cheesesteak in Philadelphia and a Guinness in Dublin
 * Studied, lived and worked abroad
 * Been to 8 countries and 30 states
-* Toured 6 large breweries/distilleries and 18+ smaller ones across four countries incl. Germany
+* Toured 6 large breweries/distilleries and 18+ smaller ones across four countries including Germany
 * Biked 50+km of the [Wild Atlantic Way](https://www.wildatlanticway.com){:target="_blank"} in Co. Sligo, Ireland
 * Been on 9+ ghost tours across three countries
 * Took in Stonehenge
@@ -149,11 +149,11 @@ You can find this info on [Goodreads](https://www.goodreads.com/review/list/1509
 **Student Competitions:**
 
 **FBLA**: The Future Business Leaders of America
-
+<br />
 **SkillsUSA-VICA**: The SkillsUSA Competition of The Vocational Industrial Clubs of America
-
+<br />
 **STLP**: Student Technology Leadership Program
-
+<br />
 **CH1 SPW**: Channel One News Student-Produced Week (unfortunately the program went off the air in May 2018)
 
 * *Finalist in IEEE CHC60 Computing History Competition (2006)
@@ -198,5 +198,5 @@ I did not have anything handed to me and I had to work my butt off to get where 
 I had to support myself financially by age 15 and would have been working since I was 12 if child labor laws didn't forbid it. 
 
 My branch of the Feeney Family immigrated from County Sligo, Ireland to New Jersey in the early 1900s. I think I've found most of my long-lost family members who stayed in Ireland or immigrated to England, but if you think you're one of these get in touch!
-On my mother's side I'm the descendant of Appalachia's earliest pioneers. You can read about her youth in the farmland of Grant County and how she tried to teach me those same lessons in the city in "Jack in the City", the book accompanying the play by the same name that we performed in during the 1990s.
+On my mother's side I'm the descendant of Appalachia's earliest pioneers. You can read about her youth in the farmland of Grant County, KY and how she tried to teach me those same lessons in the city in "Jack in the City", the book accompanying the play by the same name that we performed in during the 1990s.
 </section>
