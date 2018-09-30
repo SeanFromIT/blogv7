@@ -16,8 +16,8 @@ layout: default
 			<section id="blog">
 				<div class="sectionHeader">
 					<h4>Tech Blog</h4>
-					<div class="sectionIcon"><a title="atom feed" href="/feed.xml"><i class="fas fa-rss-square"></i></a></div>
-					<div id="subscribe">subscribe by email</div>
+					<div class="sectionIcon"><a target="_blank" title="atom feed" href="http://feeds.feedburner.com/feeney"><i class="fas fa-rss-square"></i></a></div>
+					<div id="subscribe"><a target="_blank" title="subscribe by email" href="https://feedburner.google.com/fb/a/mailverify?uri=feeney&amp;loc=en_US">subscribe by email</a></div>
 				</div>
 				{% for post in site.posts limit:10 %}
 					<a class="button" title="{{ post.title }} {{ post.date | date: "%-d %B %Y" }}" href="{{ post.url }}">
