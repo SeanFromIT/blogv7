@@ -211,9 +211,6 @@ nav a:focus {
 	display: inline-block;
 	margin-left: 10px;
 }
-.sectionIcon a {
-	color: #fff;
-}
 #subscribe {
 	float: right;
 }
@@ -327,8 +324,8 @@ nav a:focus {
 	color: #fff;
 	font-size: 85%;
 }
-#disclaimer a {
-	color: white;
+.sectionIcon a, #subscribe a, #disclaimer a {
+	color: #fff;
 }
 .footerHeader {
 	padding: 10px 15px;
