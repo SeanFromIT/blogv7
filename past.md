@@ -186,8 +186,8 @@ Through STLP I became my junior high's webmaster. Then with that experience, my 
 *Apple IIe I rescued from a school dumpster*
 
 I was raised in poverty in the city of Covington, Kentucky.
-Covington borders Cincinnati, Ohio to the north, making it a vital part of the Cincinnati Metro area which stretches as far south as Walton (where a gas station proudly declares itself to be in "South Cincinnati").
-Covington was founded by Germans in 1815 and many of the neighborhood names reflect this, such as Mainstrasse where they annually hold an Octoberfest and a Mayfest.
+Covington is a Democratic stronghold right across the Ohio River from Cincinnati.
+With its bars and restaurants and proximity to downtown Cinci, [Covington] attracts a mix of Millennials, empty-nesters, rich business leaders and bohemians ([USA Today](https://www.usatoday.com/story/news/politics/2018/10/02/kavanaugh-covington-kentucky-takes-action-bed-sheets/1501335002/){:target="_blank"}).
 I grew up in Austinburg, a historic neighborhood on Covington's east side that stretches from 17th to 21st streets, next to the Wallace Woods and Lavassor Park neighborhoods.
 This is where I met my best friends growing up.
 I attended Sixth District Elementary, Holmes Junior High School, Holmes Senior High School and Chapman CTC, and spent my Saturdays and Sundays at St. Benedict's Cathedral and Eastside Church of the Nazerine.
