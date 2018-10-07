@@ -40,5 +40,17 @@ fields:
   description: Post Title
   config:
     required: true
+- type: text
+  name: description
+  label: description
+  description: Short description for sharing/page previews
+- type: text
+  name: image
+  label: image
+  description: "/assets/img/2018/xxx"
+- type: tag_list
+  name: categories
+  label: categories
+  description: Post Tags
 pages:
 - _posts/2018-10-07-wordpress-to-jekyll-migration.md
