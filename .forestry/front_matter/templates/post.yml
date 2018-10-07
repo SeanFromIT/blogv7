@@ -40,3 +40,5 @@ fields:
   description: Post Title
   config:
     required: true
+pages:
+- _posts/wordpress-to-jekyll-migration.md
