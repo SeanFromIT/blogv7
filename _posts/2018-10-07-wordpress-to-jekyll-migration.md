@@ -5,6 +5,11 @@ comments: 'true'
 layout: post
 date: 2018-10-07 00:00:00 +0000
 slug: wordpress-jekyll-migration
+description: ''
+image: ''
+categories:
+- web development
+- web design
 
 ---
 I am a reluctant adopter of the JAM stack. After all, JavaScript has been a part of _every_ stack for 20 years, Markup (in the form of HTML) for even longer, and APIs? Those are provided by my CMS of choice. Why do I need to migrate? Well, I think the clincher for most is that GitHub now offers free static website hosting, and it only supports Jekyll. That's a compelling, if coercive, reason.
