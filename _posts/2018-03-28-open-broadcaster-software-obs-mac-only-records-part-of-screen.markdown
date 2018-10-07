@@ -7,6 +7,8 @@ link: https://feeney.mba/2018/03/28/open-broadcaster-software-obs-mac-only-recor
 slug: open-broadcaster-software-obs-mac-only-records-part-of-screen
 title: Open Broadcaster Software (OBS) Mac Only Records Part of Screen
 wordpress_id: 906
+categories:
+- video sharing
 ---
 
 Like 1/4 of the screen. Why?
