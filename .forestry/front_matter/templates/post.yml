@@ -1,0 +1,42 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: author
+  label: author
+  default: SeanFromIT
+  hidden: true
+- type: text
+  name: comments
+  label: comments
+  default: 'true'
+  config:
+    required: true
+  description: On=true
+- type: datetime
+  name: date
+  label: Date
+  description: Published date
+  config:
+    required: true
+- type: text
+  name: layout
+  label: layout
+  config:
+    required: true
+  default: post
+  hidden: true
+- type: text
+  name: slug
+  label: slug
+  description: URL short name
+  config:
+    required: true
+- type: text
+  name: title
+  label: title
+  description: Post Title
+  config:
+    required: true
