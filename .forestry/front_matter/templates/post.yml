@@ -41,4 +41,4 @@ fields:
   config:
     required: true
 pages:
-- _posts/wordpress-to-jekyll-migration.md
+- _posts/2018-10-07-wordpress-to-jekyll-migration.md
