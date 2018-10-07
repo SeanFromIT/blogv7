@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2015/08/04/it-strategic-asset-or-cost-center/
 slug: it-strategic-asset-or-cost-center
 title: 'IT: Innovation Center or Cost Center?'
+image: /assets/img/2015/08/cto.jpg
 wordpress_id: 480
 categories:
 - cxo

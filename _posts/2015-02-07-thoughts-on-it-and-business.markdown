@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2015/02/07/thoughts-on-it-and-business/
 slug: thoughts-on-it-and-business
 title: Thoughts on IT and Business
+image: /assets/img/2015/02/apps-300x222.gif
 wordpress_id: 403
 type: graphic
 categories:

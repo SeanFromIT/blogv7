@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2016/02/19/php-websites-on-aws-elastic-beanstalk-with-free-ssl/
 slug: php-websites-on-aws-elastic-beanstalk-with-free-ssl
 title: PHP Websites on AWS Elastic Beanstalk with Free SSL
+image: /assets/img/2016/02/blogCapture.PNG
 wordpress_id: 544
 categories:
 - amazon

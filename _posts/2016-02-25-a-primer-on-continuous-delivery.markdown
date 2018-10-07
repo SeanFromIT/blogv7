@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2016/02/25/a-primer-on-continuous-delivery/
 slug: a-primer-on-continuous-delivery
 title: A Primer on Continuous Delivery
+image: /assets/img/2016/02/Slide1-2-300x225.jpg
 wordpress_id: 513
 categories:
 - buzzwords

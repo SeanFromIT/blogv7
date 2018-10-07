@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2016/11/17/email-forwarding-using-native-aws-services/
 slug: email-forwarding-using-native-aws-services
 title: Email Forwarding Using Native AWS Services
+image: /assets/img/2016/11/Snip20161117_22-768x494.png
 wordpress_id: 802
 categories:
 - amazon

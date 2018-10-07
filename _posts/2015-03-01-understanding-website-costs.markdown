@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2015/03/01/understanding-website-costs/
 slug: understanding-website-costs
 title: Understanding Website Costs
+image: /assets/img/2015/03/websiteCosts.gif
 wordpress_id: 435
 categories:
 - Good Business Practices

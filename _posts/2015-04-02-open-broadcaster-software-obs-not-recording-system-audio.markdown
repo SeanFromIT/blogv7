@@ -6,6 +6,7 @@ layout: post
 link: https://feeney.mba/2015/04/02/open-broadcaster-software-obs-not-recording-system-audio/
 slug: open-broadcaster-software-obs-not-recording-system-audio
 title: Open Broadcaster Software (OBS) Not Recording System Audio
+image: /assets/img/2015/04/obs.jpg
 wordpress_id: 458
 categories:
 - video sharing
