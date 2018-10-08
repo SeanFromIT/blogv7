@@ -45,6 +45,7 @@ Ideally it's something that I - and others - are passionate about and naturally 
 * Get out from under the indentured servitude of student loans
 * Run for state office
 * Learn to play guitar
+* Learn to speak Gaeilge
 * Visit the Johnson Space Center in Houston
 * Visit Jungfrau Park and its inspirations like the pyramids of Egypt, Easter Island, Incan ruins at Cusco and Machu Picchu, Mayan ruins at Teotihuacán and Chichen Itza
 * Fill in my National Parks Passport with places like Mesa Verde, the Grand Canyon, Yellowstone, and Arches
