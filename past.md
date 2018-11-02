@@ -76,7 +76,7 @@ title: Past
 * Rocked a fellowship with a Hollywood TV studio
 * Had a Chicago dog in Chicago, a New York-style pizza in New York City, a Philly Cheesesteak in Philadelphia and a Guinness in Dublin
 * Studied, lived and worked abroad
-* Been to 8 countries and 30 states
+* Been to 8 countries and 31 states
 * Toured 6 large breweries/distilleries and 18+ smaller ones across four countries including Germany
 * Biked 50+km of the [Wild Atlantic Way](https://www.wildatlanticway.com){:target="_blank"} in Co. Sligo, Ireland
 * Been on 9+ ghost tours across three countries
