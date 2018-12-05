@@ -85,7 +85,7 @@ title: Past
 * Visited Big Ben and the British Parliament in London
 * Lobbied for increased NASA funding in Washington, D.C.
 * Attended Barack Obama's inauguration there too
-* Notable State & National Parks: Mammoth Cave, Niagara Falls, Gettysburg, Roan Mountain
+* Notable State & National Parks: Grand Canyon, Mammoth Cave, Niagara Falls, Gettysburg, Roan Mountain
 * Rehabbed a house
 * First generation in my family to graduate college, get a master's degree, and own a home
 * Kentucky Boys' State
@@ -195,7 +195,7 @@ I am truly the product of Covington's great education and moral instruction syst
 
 You cannot know me without knowing where and how I grew up - from fishing on the banks of the Licking River to watching the WEBN Labor Day fireworks each year on the Ohio River, this place gave me the perspective that I have on life, which I've found can be radically different from the hordes of people "growing up in the 'burbs" these days.
 I did not have anything handed to me and I had to work my butt off to get where I am today.
-I had to support myself financially by age 15 and would have been working since I was 12 if child labor laws didn't forbid it. 
+I had to support myself financially by age 15 and would have been working since I was 12 if child labor laws didn't forbid it.
 
 My branch of the Feeney Family immigrated from County Sligo, Ireland to New Jersey in the early 1900s. I think I've found most of my long-lost family members who stayed in Ireland or immigrated to England, but if you think you're one of these get in touch!
 On my mother's side I'm the descendant of Appalachia's earliest pioneers. You can read about her youth in the farmland of Grant County, KY and how she tried to teach me those same lessons in the city in "Jack in the City", the book accompanying the play by the same name that we performed in during the 1990s.
