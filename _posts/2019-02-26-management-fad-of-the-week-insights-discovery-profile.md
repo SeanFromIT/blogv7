@@ -8,8 +8,8 @@ title: 'Management Fad of the Week: Insights Discovery Profile'
 description: ''
 image: ''
 categories:
-- managament
 - Good Business Practices
+- management
 
 ---
 These statements provide a broad understanding of Sean's work style. Use this section to gain a better understanding of his approaches to his activities, relationships and decisions.
