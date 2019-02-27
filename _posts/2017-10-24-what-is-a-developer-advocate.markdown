@@ -1,7 +1,7 @@
 ---
 author: SeanFromIT
 comments: true
-date: 2017-10-24 22:04:54+00:00
+date: 2017-10-24 22:04:54 +0000
 layout: post
 link: https://feeney.mba/2017/10/24/what-is-a-developer-advocate/
 slug: what-is-a-developer-advocate
@@ -15,9 +15,8 @@ categories:
 - cxo
 - Development Platforms
 - Good Business Practices
-- management
----
 
+---
 TL;DR: The new PC term for technology evangelist
 
 A developer advocate is a technologist who is both proficient with the use of particular platform produced by their employer and with technical communications. They spread the word about the platform through self-produced speaking engagements, demos, workshops, blogs, tweets, etc. and take qualitative feedback, from their own use and from customer use of the platform, back to the product teams. In this sense, they advocate for platform improvement on behalf of developers, but that is a relatively small percentage of their job (maybe 3%).
