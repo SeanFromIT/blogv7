@@ -156,7 +156,7 @@ You can find this info on [Goodreads](https://www.goodreads.com/review/list/1509
 <br />
 **CH1 SPW**: Channel One News Student-Produced Week (unfortunately the program went off the air in May 2018)
 
-* *Finalist in IEEE CHC60 Computing History Competition (2006)
+* Finalist in IEEE CHC60 Computing History Competition (2006)
 * First [Jim Huff](https://www.huff.com){:target="_blank"} Scholar (2005)
 * Coca-Cola Regional Scholar (2005)
 * U.S. Presidential Freedom Scholar (2005), President's Award for Educational Excellence (2005, 2001 and 1999), and President's Volunteer Service Award (2004)
