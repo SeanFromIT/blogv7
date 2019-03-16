@@ -161,7 +161,7 @@ You can find this info on [Goodreads](https://www.goodreads.com/review/list/1509
 * Coca-Cola Regional Scholar (2005)
 * U.S. Presidential Freedom Scholar (2005), President's Award for Educational Excellence (2005, 2001 and 1999), and President's Volunteer Service Award (2004)
 * 1st Place in the entire United States - CH1 SPW Webmaster (2004)
-* *1st place in the entire state of Kentucky in SkillsUSA Web Design (2005)
+* 1st place in the entire state of Kentucky in SkillsUSA Web Design (2005)
 * 2nd place in the entire state of Kentucky in FBLA Network Design (2005)
 * 2nd Place in the entire state of Kentucky in FBLA Technology Concepts (2003)
 * 2nd Place in all of northern Kentucky in FBLA Website Development (2004)
