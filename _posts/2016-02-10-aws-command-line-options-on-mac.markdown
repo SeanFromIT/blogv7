@@ -36,7 +36,7 @@ aws
 **EB CLI** (Elastic Beanstalk):
 
 
-`sudo curl -s https://s3.amazonaws.com/elasticbeanstalk-cli-resources/install-ebcli.py | python`
+`pip install awsebcli --upgrade --user`
 
 
 _You may be prompted to install Developer Tools, after which you'll need to run this command again. _
