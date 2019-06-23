@@ -117,8 +117,8 @@ layout: default
 					function randomPhoto(photoArray) {
 						var copy = photoArray.slice(0);
 						return function() {
-							if (copy.length < 1) { 
-								copy = photoArray.slice(0); 
+							if (copy.length < 1) {
+								copy = photoArray.slice(0);
 							}
 							var index = Math.floor(Math.random() * copy.length);
 							var item = copy[index];
@@ -126,7 +126,7 @@ layout: default
 							return item;
 						};
 					}
-					
+
 					var randomLeftPhoto = randomPhoto(leftsidePhotos);
 					var randomFeaturedPhoto = randomPhoto(featuredPhotos);
 				</script>
@@ -148,7 +148,7 @@ layout: default
 					<div class="sectionIcon"><i class="far fa-comment"></i></div>
 				</div>
 				<div id="speakingOpps">
-					Minneapolis seems to have a lot of meetups.
+					Phoenix seems to have a lot of meetups.
 					With three kids my time is at a premium these days, but I'd love to be invited to speak at your event.
 					I probably don't have the free time to respond to your CFP unless you want to grab one of the works above.
 					I will, however, put time into a deck for your event if it's a fit.

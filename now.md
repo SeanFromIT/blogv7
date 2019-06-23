@@ -4,15 +4,10 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 26 September 2018
+## Last updated: 23 June 2019
 
 <section id="post" markdown="1">
 **Boards and committees:**
-* Sherburne County Economic Advisory Committee
-* DFL State Central Committee Delegate
-* CD6 DFL Director
-* Sherburne County DFL Director
-* DFL Precinct Chair (Big Lake City P3)
 
 If your start-up or non-profit board needs an experienced Fortune 100 alum / tech MBA who is not afraid to speak his mind, please get in touch.
 On the non-profit side, I generally spend my time with those addressing economic justice, seeking to reduce poverty and improve/fund public education.
@@ -24,7 +19,7 @@ On the non-profit side, I generally spend my time with those addressing economic
 **Personal Life:**
 * Spending time with my three kids; being there for them at their extracurricular activities as much as I can
 * Trying to fix up the house to get it ready to sell this spring
-* Househunting south of the Twin Cities, since Ireland still isn't working out
+* Relocating to Phoenix, since Ireland still isn't working out
 * Occasionally responding to [Feeney Genealogy Project](http://feeneygenealogy.com) requests for help and updating my own tree
 
 **Side Projects:**
