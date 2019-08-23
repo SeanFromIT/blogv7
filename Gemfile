@@ -31,4 +31,7 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Fix CVE-2018-14404
-gem "nokogiri", ">= 1.8.5"
+#gem "nokogiri", ">= 1.8.5"
+
+#Fix CVE-2019-5477
+gem "nokogiri", ">= 1.10.4"
