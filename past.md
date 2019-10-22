@@ -7,6 +7,11 @@ title: Past
 
 <section id="post" markdown="1" style="min-width: 635px;">
 **Boards, committees, commissions:**
+* Sherburne County Economic Advisory Committee
+* DFL State Central Committee Delegate
+* CD6 DFL Director
+* Sherburne County DFL Director
+* DFL Precinct Chair (Big Lake City P3)
 * President of City Council / Vice Mayor (North College Hill, OH)
 * Farrington's Grove Historical District Board Member
 * NCH Business Association Executive Committee
@@ -76,7 +81,7 @@ title: Past
 * Rocked a fellowship with a Hollywood TV studio
 * Had a Chicago dog in Chicago, a New York-style pizza in New York City, a Philly Cheesesteak in Philadelphia and a Guinness in Dublin
 * Studied, lived and worked abroad
-* Been to 8 countries and 31 states
+* Been to 8 countries and 36 states
 * Toured 6 large breweries/distilleries and 18+ smaller ones across four countries including Germany
 * Biked 50+km of the [Wild Atlantic Way](https://www.wildatlanticway.com){:target="_blank"} in Co. Sligo, Ireland
 * Been on 9+ ghost tours across three countries
