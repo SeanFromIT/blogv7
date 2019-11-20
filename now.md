@@ -4,7 +4,7 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 23 June 2019
+## Last updated: 19 Nov 2019
 
 <section id="post" markdown="1">
 **Boards and committees:**
@@ -18,13 +18,11 @@ On the non-profit side, I generally spend my time with those addressing economic
 
 **Personal Life:**
 * Spending time with my three kids; being there for them at their extracurricular activities as much as I can
-* Trying to fix up the house to get it ready to sell this spring
-* Relocating to Phoenix, since Ireland still isn't working out
 * Occasionally responding to [Feeney Genealogy Project](http://feeneygenealogy.com) requests for help and updating my own tree
 
 **Side Projects:**
 * Keeping [Student Loan Bill Tracker](https://studentloanbilltracker.com) up to date and advocating for solutions, political and business, to the crisis
-* I took this year off, but every other year or so I advise senior or junior projects for my undergraduate alma mater
+* I took a while off with all the relos, but every other year or so I advise senior or junior projects for my undergraduate alma mater
 
 **How I prioritize all this:**
 
@@ -56,7 +54,7 @@ Is there anything I can help you do? Get in touch.
 
 **What I'm reading:**
 
-Just finished *[The Four](https://amzn.to/2IlKFph)* by Scott Galloway
+Just finished *[It Doesn't Have to be Crazy at Work](https://amzn.to/334Vjtc)* by Fried & Heinemeier of Basecamp fame.
 
 You can find other books in my library on [Goodreads](https://www.goodreads.com/review/list/1509252?shelf=business)
 

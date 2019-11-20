@@ -19,7 +19,7 @@ h2 {
 	margin-top: 0;
 	font-size: 100%;
 	font-weight: normal;
-	
+
 }
 h2, #tags {
 	font-style: italic;
@@ -277,7 +277,7 @@ nav a:focus {
 		100% 100%,
 		100% 4%,
 		52% 4%,
-		50% 0%, 
+		50% 0%,
 		48% 4%,
 		0% 4%
 	);
@@ -286,7 +286,7 @@ nav a:focus {
 		100% 100%,
 		100% 4%,
 		52% 4%,
-		50% 0%, 
+		50% 0%,
 		48% 4%,
 		0% 4%
 	);
@@ -302,7 +302,7 @@ nav a:focus {
 		100% 100%,
 		100% 4%,
 		52% 4%,
-		50% 0%, 
+		50% 0%,
 		48% 4%,
 		0% 4%
 	);
@@ -311,7 +311,7 @@ nav a:focus {
 		100% 100%,
 		100% 4%,
 		52% 4%,
-		50% 0%, 
+		50% 0%,
 		48% 4%,
 		0% 4%
 	);
@@ -480,7 +480,7 @@ ul.polaroids li span:hover {
 }
 
 /* Small Screen */
-@media screen and (max-width: 955px) {
+@media screen and (max-width: 1010px) {
 	#headerTitle {
 		font-size: 125%;
 	}
@@ -505,7 +505,7 @@ ul.polaroids li span:hover {
 }
 
 /* Large Screen */
-@media screen and (min-width: 955px) {
+@media screen and (min-width: 1010px) {
 	.thatching {
 		min-height: 415px;
 	}
