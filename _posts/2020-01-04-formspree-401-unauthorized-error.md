@@ -12,11 +12,11 @@ categories: []
 ---
 Trying Formspree, my AJAX form wasn't reaching the success function. Using Chrome Developer tools, I just saw:
 
-![](/img/2020/chromeDebug.JPG)
+![](/assets/img/2020/chromeDebug.JPG)
 
 Searching Formspree's Help Site for "401" turned up nada. So I switched to Firefox Developer tools, Network tab, and inspected the Response.
 
-![](/img/2020/firefoxDebug.JPG)
+![](/assets/img/2020/firefoxDebug.JPG)
 
 Aha! But I actually do want reCAPTCHA spam protection. Luckily I stumbled across this [ZEIT guide](https://zeit.co/guides/deploying-react-forms-using-formspree-with-zeit-now "Deploying React Forms Using Formspree with ZEIT Now") that says: "To use AJAX on Formspree you must either disable reCAPTCHA or provide your own reCAPTCHA key."
 
