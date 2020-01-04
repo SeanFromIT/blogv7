@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: text
   name: author
@@ -53,5 +52,5 @@ fields:
   label: categories
   description: Post Tags
 pages:
-- _posts/2019-02-26-management-fad-of-the-week-insights-discovery-profile.md
 - _posts/2018-10-07-wordpress-to-jekyll-migration.md
+- _posts/2019-02-26-management-fad-of-the-week-insights-discovery-profile.md
