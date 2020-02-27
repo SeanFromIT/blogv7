@@ -41,7 +41,7 @@ Ideally it's something that I - and others - are passionate about and naturally 
 * Learn to speak Gaeilge
 * Visit the Johnson Space Center in Houston
 * Visit Jungfrau Park and its inspirations like the pyramids of Egypt, Easter Island, Incan ruins at Cusco and Machu Picchu, Mayan ruins at Teotihuacán and Chichen Itza
-* Fill in my National Parks Passport with places like Mesa Verde, Yellowstone, and Arches
+* Fill in my National Parks Passport with places like Yellowstone and Arches
 * Take the family camping & stargazing in a dark sky area
 * Spend more time in Italy, maybe Rome
 * More canoeing, maybe up at the boundary waters
