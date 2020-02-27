@@ -90,7 +90,7 @@ title: Past
 * Visited Big Ben and the British Parliament in London
 * Lobbied for increased NASA funding in Washington, D.C.
 * Attended Barack Obama's inauguration there too
-* Notable State & National Parks: Grand Canyon, Mammoth Cave, Niagara Falls, Gettysburg, Roan Mountain
+* Notable State & National Parks: Grand Canyon, Mesa Verde, Mammoth Cave, Niagara Falls, Hoover Dam, Gettysburg, Mount Rushmore, Great Sand Dunes, Petrified Forest, Alcatraz, Roan Mountain
 * Rehabbed a house
 * First generation in my family to graduate college, get a master's degree, and own a home
 * Kentucky Boys' State
