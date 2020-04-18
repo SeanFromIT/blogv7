@@ -44,13 +44,16 @@ I pulled each page's <text></text> field into a text file of its own with a .wik
       }
     }
 
-I exclude the script and dump file, in case you're doing this all in one directory.
+I exclude the script and dump file, in case you're doing this all in one directory. Turns out there isn't just one [markdown standard](http://www.joshuakehn.com/2014/9/5/markdown-and-standards.html "markdown standards").  The closest in wide usage is [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/ "GitHub Flavored Markdown"). Pepperminty uses PHP Parsedown Extreme, which is based on PHP Parsedown Extra, hence the choice of markdown_phpextra. 
 
-Now I have md (markdown) files for each page. But there isn't just one [markdown standard](http://www.joshuakehn.com/2014/9/5/markdown-and-standards.html "markdown standards").  The closest in wide usage is [GitHub Flavored Markdown (GFM)](https://github.github.com/gfm/ "GitHub Flavored Markdown"). Pepperminty uses Parsedown Extreme. A help page is provided as a starting point for confirming syntax support. With my source content, I ran into these issues that needed manually addressed:
+A help page is provided as a starting point for confirming syntax support. With my source content, I ran into these issues that needed manually addressed:
 
 * REDIRECT pages (syntax should become: _#REDIRECT \[\[New Page Name\]\]_ )
-* Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other templates won't work
-* xx
+* Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other templates won't work. These will appear as _{=mediawiki}_
+* {{DEFAULTSORT}} is no longer relevant
+* Escape characters (\\) in front of ",', #, and @ can be removed.
+* "wikilink" and InterLink: links need to be scrubbed
+* Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
 Given that all those [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do.
 
