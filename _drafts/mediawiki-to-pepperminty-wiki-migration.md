@@ -36,7 +36,7 @@ I pulled each page's <text></text> field into a text file of its own with a .wik
       if (($file -notmatch 'convert') -and ($extension -notmatch '.xml')){
         $sourceFile = $file+'.wiki'
         $destinationFile = $file+'.md'
-        pandoc $sourceFile -f mediawiki -t markdown -s -o $destinationFile
+        pandoc $sourceFile -f mediawiki -t markdown_phpextra -s -o $destinationFile
         if($LASTEXITCODE -ne 0){
           Write-Host 'Alert! ' -ForegroundColor Red -NoNewline
           Write-Host 'Error processing file: '+$i -BackgroundColor Yellow -ForegroundColor Black -NoNewline
@@ -51,7 +51,6 @@ A help page is provided as a starting point for confirming syntax support. With 
 * REDIRECT pages (syntax should become: _#REDIRECT \[\[New Page Name\]\]_ )
 * Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other templates won't work. These will appear as _{=mediawiki}_
 * {{DEFAULTSORT}} is no longer relevant
-* Escape characters (\\) in front of ",', #, and @ can be removed.
 * "wikilink" and InterLink: links need to be scrubbed
 * Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
