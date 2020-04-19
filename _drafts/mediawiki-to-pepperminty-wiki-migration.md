@@ -49,12 +49,14 @@ I exclude the script and dump file, in case you're doing this all in one directo
 A help page is provided as a starting point for confirming syntax support. With my source content, I ran into these issues that needed manually addressed:
 
 * REDIRECT pages (syntax should become: _#REDIRECT \[\[New Page Name\]\]_ )
-* Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other templates won't work. These will appear as _{=mediawiki}_
+* Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other styled templates won't work. These will appear as _{=mediawiki}_
+* {{quote}} template content disappeared completely during the conversion
 * {{DEFAULTSORT}} is no longer relevant
 * "wikilink" and InterLink: links need to be scrubbed
+* There is no in-built reference system (<ref> tags). The cleanest solution I've found so far is to use superscript characters (¹²³⁴⁵⁶⁷⁸⁹⁰) and a simple numbered list at the end of the article.
 * Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
-Given that all those [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty.
+Given that all those styled [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates likely won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty.
 
 Now that the md files are in working order, theoretically, you could drop them in your Pepperminty folder and update navigation as needed, but I'm sure there are some additional steps necessary. For one, you'd need to duplicate each file to filename.md.r0 to simulate the first commit/revision. My wiki was small enough that manually uploaded images and pasted the md content into Pepperminty Wiki's new page GUI (I know, I know, what happened to automation?).
 
