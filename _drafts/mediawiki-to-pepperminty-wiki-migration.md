@@ -51,7 +51,8 @@ A help page is provided as a starting point for confirming syntax support. With 
 * REDIRECT pages (syntax should become: _#REDIRECT \[\[New Page Name\]\]_ )
 * Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other styled templates won't work. These will appear as _{=mediawiki}_
 * {{quote}} template content disappeared completely during the conversion
-* I had one random </text> appear in a link's conversion, and a few &dash; and &#8212 HTML symbols that needed to be addressed
+* I had one random </text> appear in a link's conversion, and a few &dash;, &ndash;, &mdash; and &#8212; HTML symbols that needed to be addressed
+* An ordered list with inline styling got mangled
 * {{DEFAULTSORT}} is no longer relevant
 * "wikilink" and InterLink: links need to be scrubbed
 * There is no in-built reference system (<ref> tags). The cleanest solution I've found so far is to use superscript characters (¹²³⁴⁵⁶⁷⁸⁹⁰) and a simple numbered list at the end of the article.
