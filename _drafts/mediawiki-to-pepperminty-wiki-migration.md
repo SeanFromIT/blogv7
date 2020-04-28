@@ -52,7 +52,7 @@ A help page is provided as a starting point for confirming syntax support. With 
 * Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other styled templates won't work. These will appear as _{=mediawiki}_
 * {{quote}} template content disappeared completely during the conversion
 * I had one random </text> appear in a link's conversion, and a few &dash;, &ndash;, &mdash; and &#8212; HTML symbols that needed to be addressed
-* An ordered list with inline styling got mangled, as did some quotations that wound up with \\\` syntax.
+* An ordered list with inline styling got mangled, as did some quotations that wound up with \\\` syntax (source was probably [Microsoft Word-esque character encoding](https://askleo.com/why_do_i_get_odd_characters_instead_of_quotes_in_my_documents/ "Character Encoding")).
 * {{DEFAULTSORT}} is no longer relevant
 * "wikilink" and InterLink: links need to be scrubbed
 * Instead of <ref> tags for citations, use markdown extended's [footnotes syntax](https://www.markdownguide.org/extended-syntax/#footnotes "footnotes").
