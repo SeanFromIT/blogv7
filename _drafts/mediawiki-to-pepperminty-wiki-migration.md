@@ -52,10 +52,10 @@ A help page is provided as a starting point for confirming syntax support. With 
 * Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other styled templates won't work. These will appear as _{=mediawiki}_
 * {{quote}} template content disappeared completely during the conversion
 * I had one random </text> appear in a link's conversion, and a few &dash;, &ndash;, &mdash; and &#8212; HTML symbols that needed to be addressed
-* An ordered list with inline styling got mangled
+* An ordered list with inline styling got mangled, as did some quotations that wound up with \\\` syntax.
 * {{DEFAULTSORT}} is no longer relevant
 * "wikilink" and InterLink: links need to be scrubbed
-* There is no in-built reference system (<ref> tags). The cleanest solution I've found so far is to use superscript characters (¹²³⁴⁵⁶⁷⁸⁹⁰) and a simple numbered list at the end of the article.
+* Instead of <ref> tags for citations, use markdown extended's [footnotes syntax](https://www.markdownguide.org/extended-syntax/#footnotes "footnotes").
 * Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
 Given that all those styled [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates likely won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty and for video uploads, you need to allow /etc/mime.types in your php.ini _open_basedir_.
