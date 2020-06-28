@@ -34,6 +34,7 @@ github_username: SeanFromIT
 stack_overflow_username: 311393/seanfromit
 angellist_username: seanfromit
 slideshare_username: SeanFeeney3
+colnect_username: SeanFromIT
 
 twitter:
   username: SeanFromIT
@@ -50,6 +51,7 @@ social:
     - https://angel.co/seanfromit
     - https://stackexchange.com/users/311393/seanfromit
     - https://www.slideshare.net/SeanFeeney3
+    - https://colnect.me/SeanFromIT
 
 # Custom Data Types
 collections:
