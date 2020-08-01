@@ -2,7 +2,7 @@
 author: SeanFromIT
 comments: 'true'
 layout: post
-date: 2020-04-30 19:00:00 -0700
+date: 2020-04-30T19:00:00.000-07:00
 slug: mediawikitopepperminty
 title: MediaWiki to Pepperminty Wiki Migration
 description: ''
@@ -51,11 +51,11 @@ A help page is provided as a starting point for confirming syntax support. With 
 * REDIRECT pages (syntax should become: _#REDIRECT \[\[New Page Name\]\]_ )
 * Right floats (e.g. [TOCright](https://www.mediawiki.org/wiki/Template:TOCright "TOCright")) and other styled templates won't work. These will appear as _{=mediawiki}_
 * {{quote}} template content disappeared completely during the conversion
-* I had one random </text> appear in a link's conversion, and a few &dash;, &ndash;, &mdash; and &#8212; HTML symbols that needed to be addressed
+* I had one random </text> appear in a link's conversion, and a few ‐, –, — and — HTML symbols that needed to be addressed
 * An ordered list with inline styling got mangled, as did some quotations that wound up with \\\` syntax (source was probably [Microsoft Word-esque character encoding](https://askleo.com/why_do_i_get_odd_characters_instead_of_quotes_in_my_documents/ "Character Encoding")).
 * {{DEFAULTSORT}} is no longer relevant
 * "wikilink" and InterLink: links need to be scrubbed
-* Instead of <ref> tags for citations, use markdown extended's [footnotes syntax](https://www.markdownguide.org/extended-syntax/#footnotes "footnotes").
+* Instead of <ref> tags for citations, use markdown extended's [footnotes syntax](https://www.markdownguide.org/extended-syntax/#footnotes "footnotes"). If the footnote contents follows a different list, ensure there's something breaking the prior list or it may get mangled. For example, a blank link (\[\[\]\]) would work to break the prior list. Footnotes may not work if definition lists (: ) are also used on the page. Pandoc seemed to like to replace some blockquotes with these, so you can replace : with > to get a proper blockquote.
 * Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
 Given that all those styled [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates likely won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty and for video uploads, you need to allow /etc/mime.types in your php.ini _open_basedir_.
