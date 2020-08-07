@@ -4,7 +4,7 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 19 Nov 2019
+## Last updated: 18 Aug 2020
 
 <section id="post" markdown="1">
 **Boards and committees:**
@@ -13,7 +13,7 @@ If your start-up or non-profit board needs an experienced Fortune 100 alum / tec
 On the non-profit side, I generally spend my time with those addressing economic justice, seeking to reduce poverty and improve/fund public education.
 
 **Professional Life:**
-* Cloud Engineering Practice Director at the Nerdery, helping companies embrace cloud first and DevOps mentalities
+* Cloud Infrastructure Director at Savvas, keeping your kids' e-learning platforms online
 * Mentoring others, helping them reach their goals - you can request career advice from me on [LinkedIn](https://www.linkedin.com/in/seanfromit)
 
 **Personal Life:**
@@ -44,7 +44,7 @@ Ideally it's something that I - and others - are passionate about and naturally 
 * Fill in my National Parks Passport with places like Yellowstone and Arches
 * Take the family camping & stargazing in a dark sky area
 * Spend more time in Italy, maybe Rome
-* More canoeing, maybe up at the boundary waters
+* More canoeing
 * Caving / spelunking
 * Vacation somewhere with warm, clear, blue water
 
