@@ -161,12 +161,12 @@ You can find this info on [Goodreads](https://www.goodreads.com/review/list/1509
 <br />
 **CH1 SPW**: Channel One News Student-Produced Week (unfortunately the program went off the air in May 2018)
 
-* Finalist in IEEE CHC60 Computing History Competition (2006)
+* Finalist in IEEE CHC60 Computing History Competition (2006)*
 * First [Jim Huff](https://www.huff.com){:target="_blank"} Scholar (2005)
 * Coca-Cola Regional Scholar (2005)
 * U.S. Presidential Freedom Scholar (2005), President's Award for Educational Excellence (2005, 2001 and 1999), and President's Volunteer Service Award (2004)
 * 1st Place in the entire United States - CH1 SPW Webmaster (2004)
-* 1st place in the entire state of Kentucky in SkillsUSA Web Design (2005)
+* 1st place in the entire state of Kentucky in SkillsUSA Web Design (2005)*
 * 2nd place in the entire state of Kentucky in FBLA Network Design (2005)
 * 2nd Place in the entire state of Kentucky in FBLA Technology Concepts (2003)
 * 2nd Place in all of northern Kentucky in FBLA Website Development (2004)
@@ -191,8 +191,8 @@ Through STLP I became my junior high's webmaster. Then with that experience, my 
 *Apple IIe I rescued from a school dumpster*
 
 I was raised in poverty in the city of Covington, Kentucky.
-Covington is a Democratic stronghold right across the Ohio River from Cincinnati.
-With its bars and restaurants and proximity to downtown Cinci, [Covington] attracts a mix of Millennials, empty-nesters, rich business leaders and bohemians ([USA Today](https://www.usatoday.com/story/news/politics/2018/10/02/kavanaugh-covington-kentucky-takes-action-bed-sheets/1501335002/){:target="_blank"}).
+"Covington is a Democratic stronghold right across the Ohio River from Cincinnati ...
+With its bars and restaurants and proximity to downtown Cinci, [Covington] attracts a mix of Millennials, empty-nesters, rich business leaders and bohemians" ([USA Today](https://www.usatoday.com/story/news/politics/2018/10/02/kavanaugh-covington-kentucky-takes-action-bed-sheets/1501335002/){:target="_blank"}).
 I grew up in Austinburg, a historic neighborhood on Covington's east side that stretches from 17th to 21st streets, next to the Wallace Woods and Lavassor Park neighborhoods.
 This is where I met my best friends growing up.
 I attended Sixth District Elementary, Holmes Junior High School, Holmes Senior High School and Chapman CTC, and spent my Saturdays and Sundays at St. Benedict's Cathedral and Eastside Church of the Nazerine.
