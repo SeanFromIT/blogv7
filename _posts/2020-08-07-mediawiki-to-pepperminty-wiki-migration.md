@@ -2,7 +2,7 @@
 author: SeanFromIT
 comments: 'true'
 layout: post
-date: 2020-04-30T19:00:00.000-07:00
+date: 2020-08-07 17:30:00 -0700
 slug: mediawikitopepperminty
 title: MediaWiki to Pepperminty Wiki Migration
 description: ''
