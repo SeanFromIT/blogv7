@@ -2,7 +2,7 @@
 author: SeanFromIT
 comments: 'true'
 layout: post
-date: 2020-08-07 17:30:00 -0700
+date: 2020-08-07T17:30:00.000-07:00
 slug: mediawikitopepperminty
 title: MediaWiki to Pepperminty Wiki Migration
 description: ''
@@ -58,7 +58,7 @@ A help page is provided as a starting point for confirming syntax support. With 
 * Instead of <ref> tags for citations, use markdown extended's [footnotes syntax](https://www.markdownguide.org/extended-syntax/#footnotes "footnotes"). If the footnote contents follows a different list, ensure there's something breaking the prior list or it may get mangled. For example, a blank link (\[\[\]\]) would work to break the prior list. Footnotes may not work if definition lists (: ) are also used on the page. Pandoc seemed to like to replace some blockquotes with these, so you can replace : with > to get a proper blockquote. Some multi-level unordered lists also came across as definition lists, in which case you can replace with basic list syntax (* plus spacing).
 * Categories should be replaced with tags (separate input field under the Edit field, comma separated)
 
-Given that all those styled [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates likely won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty and for video uploads, you need to allow /etc/mime.types in your php.ini _open_basedir_.
+Given that all those styled [transclusion](https://www.mediawiki.org/wiki/Transclusion "transclusion") templates likely won't work and in my case, I don't want to enable HTML support since this is meant to be a publicly editable site, I have to make some design choices. Since all of my images were in styled templates, this is where I make hard choices about whether or not I'll bring them over and how they should look on the page if I do. Note: Imagick is a required PHP extension to use image uploads in Pepperminty and for video uploads, you need to allow /etc/mime.types in your php.ini _open_basedir_. Other non-default PHP extensions required for Pepperminty can be found [in the docs](https://starbeamrainbowlabs.com/labs/peppermint/__nightdocs/04-Getting-Started.html "Pepperminty: Getting Started").
 
 Now that the md files are in working order, theoretically, you could drop them in your Pepperminty folder and update navigation (idindex.json x1, pageindex.json x3) as needed, but I'm sure there are some additional steps necessary. For one, you'd need to duplicate each file to filename.md.r0 to simulate the first commit/revision. My wiki was small enough that manually uploaded images and pasted the md content into Pepperminty Wiki's new page GUI (I know, I know, what happened to automation?).
 
