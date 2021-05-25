@@ -37,4 +37,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 #gem "nokogiri", ">= 1.10.4"
 
 #Fix CVE-2020-26247
-gem "nokogiri", ">= 1.11.0.rc4"
+#gem "nokogiri", ">= 1.11.0.rc4"
+
+#Fix CVE-2021-xx
+gem "nokogiri", ">= 1.11.4"
