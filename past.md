@@ -121,10 +121,6 @@ and past mentors:
 
 *Thank you <i class="fas fa-heart"></i>*
 
-**What I've read:**
-
-You can find this info on [Goodreads](https://www.goodreads.com/review/list/1509252?shelf=business)
-
 <div style="float:right;">
 	<ul class="polaroids" style="width: 380px;">
 		<li>
