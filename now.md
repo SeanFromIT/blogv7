@@ -4,16 +4,17 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 18 Aug 2020
+## Last updated: 22 Aug 2021
 
 <section id="post" markdown="1">
 **Boards and committees:**
+* Home Owners Association VP
 
 If your start-up or non-profit board needs an experienced Fortune 100 alum / tech MBA who is not afraid to speak his mind, please get in touch.
 On the non-profit side, I generally spend my time with those addressing economic justice, seeking to reduce poverty and improve/fund public education.
 
 **Professional Life:**
-* Cloud Infrastructure Director at Savvas, keeping your kids' e-learning platforms online
+* VP of DevOps at a major mortgage provider
 * Mentoring others, helping them reach their goals - you can request career advice from me on [LinkedIn](https://www.linkedin.com/in/seanfromit)
 
 **Personal Life:**
@@ -51,12 +52,6 @@ Ideally it's something that I - and others - are passionate about and naturally 
 Is there anything I can help you do? Get in touch.
 
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=ufoundergroun-20&language=en_US&marketplace=amazon&region=US&placement=0143124986&asins=0143124986&linkId=73621ffc16391df402042bd6716b7826&show_border=true&link_opens_in_new_window=true"></iframe>
-
-**What I'm reading:**
-
-Just finished *[It Doesn't Have to be Crazy at Work](https://amzn.to/334Vjtc)* by Fried & Heinemeier of Basecamp fame.
-
-You can find other books in my library on [Goodreads](https://www.goodreads.com/review/list/1509252?shelf=business)
 
 *This page inspired by Derek Sivers' [/now page](http://nownownow.com/) movement.*
 </section>
