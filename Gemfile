@@ -41,3 +41,8 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 #Fix CVE-2021-xx
 gem "nokogiri", ">= 1.11.4"
+
+#Ruby 3.2 requires liquid 4.0.4 https://github.com/jekyll/jekyll/issues/9233
+gem "liquid", ">= 4.0.4"
+
+gem "webrick", "~> 1.7"
