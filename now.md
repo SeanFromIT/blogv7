@@ -4,10 +4,12 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 22 Aug 2021
+## Last updated: 23 Jan 2023
 
 <section id="post" markdown="1">
 **Boards and committees:**
+* Democratic Party State Committee Member
+* Democratic Party Precinct Committeeman
 * Home Owners Association VP
 
 If your start-up or non-profit board needs an experienced Fortune 100 alum / tech MBA who is not afraid to speak his mind, please get in touch.
