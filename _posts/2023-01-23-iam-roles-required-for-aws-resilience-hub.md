@@ -2,7 +2,7 @@
 author: SeanFromIT
 comments: 'true'
 layout: post
-date: 2023-01-23 18:07:00 -0700
+date: 2023-01-23T18:07:00.000-07:00
 slug: awsResilienceHubIAMPermissions
 title: IAM Roles Required for AWS Resilience Hub
 description: The AWS documentation is lacking so here's some Terraform
@@ -647,3 +647,7 @@ Create the `AwsResilienceHubAdminAccountRole`, `AwsResilienceHubExecutorAccountR
     }
 
 Replace `<SSOPermissionSetName>`, `<account#ID>`, and wildcards as needed.
+
+Note 1: Beware of explicit denies in your S3 bucket policies such as `"Condition": {"ArnNotLike": {"aws:PrincipalARN"}}`. The user running Resilience Hub must have permission to the bucket and TF state object (not just these service roles).
+
+Note 2: Despite what you may have heard or read, you cannot use this service cross-account (at least with TF, not sure about other sources). That is a roadmap feature. For now, you must run Resiliency Hub in the same account where the state file is hosted in S3.
