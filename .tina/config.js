@@ -13,12 +13,65 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "assets/img",
       publicFolder: "./",
     },
   },
   schema: {
     collections: [
+      {
+        name: "post",
+        label: "Posts",
+        path: "_posts",
+        defaultItem: () => {
+          return {
+            comments: "true",
+            date: new Date().toISOString(),
+          }
+        },
+        fields: [
+          {
+            type: "datetime",
+            name: "date",
+            label: "Date",
+            required: true,
+          },
+          {
+             type: "string",
+             name: "title",
+             label: "Title",
+             isTitle: true,
+             required: true,
+          },
+          {
+            // Short description for sharing/page previews
+            type: "string",
+            name: "description",
+            label: "description"
+          },
+          {
+             type: "rich-text",
+             name: "body",
+             label: "Body",
+             isBody: true,
+          },
+          {
+            type: "string",
+            name: "categories",
+            label: "categories",
+            list: true,
+          },
+          {
+            // true/false whether comments should be enabled for the post
+            type: "string",
+            name: "comments",
+            label: "comments",
+            required: true,
+          }
+          // See https://tina.io/docs/schema/
+          // for help modelling your fields
+        ],
+      },
       {
         label: "Works",
         name: "works",
