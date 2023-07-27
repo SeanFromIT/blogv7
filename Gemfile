@@ -30,19 +30,11 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# Fix CVE-2018-14404
-#gem "nokogiri", ">= 1.8.5"
-
-#Fix CVE-2019-5477
-#gem "nokogiri", ">= 1.10.4"
-
-#Fix CVE-2020-26247
-#gem "nokogiri", ">= 1.11.0.rc4"
-
 #Fix CVE-2021-xx
 gem "nokogiri", ">= 1.11.4"
 
 #Ruby 3.2 requires liquid 4.0.4 https://github.com/jekyll/jekyll/issues/9233
 gem "liquid", ">= 4.0.4"
 
-gem "webrick", "~> 1.7"
+#Fix CVE-2017-10784
+gem "webrick", "~> 2.2.8"
