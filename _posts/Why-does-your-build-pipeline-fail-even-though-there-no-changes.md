@@ -8,6 +8,7 @@ categories:
   - DevOps
   - Development Platforms
   - CI/CD
+layout: post
 ---
 
 > I didn't change anything! Why is my pipeline failing!?
