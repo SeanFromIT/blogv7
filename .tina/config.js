@@ -17,6 +17,14 @@ export default defineConfig({
       publicFolder: "./",
     },
   },
+  search: {
+    tina: {
+      indexerToken: process.env.SEARCH_TOKEN, // Get this from tina.io
+      stopwordLanguages: ['eng']
+    },
+    indexBatchSize: 100,
+    maxSearchIndexFieldLength: 100
+  },
   schema: {
     collections: [
       {
