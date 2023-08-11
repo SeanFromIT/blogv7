@@ -35,6 +35,7 @@ export default defineConfig({
           return {
             comments: true,
             date: new Date().toISOString(),
+            layout: "post"
           }
         },
         fields: [
@@ -75,6 +76,11 @@ export default defineConfig({
             name: "comments",
             label: "comments",
             required: true,
+          },
+          {
+            type: "string",
+            name: "layout",
+            label: "collection"
           }
           // See https://tina.io/docs/schema/
           // for help modelling your fields
