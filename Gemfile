@@ -36,5 +36,6 @@ gem "nokogiri", ">= 1.11.4"
 #Ruby 3.2 requires liquid 4.0.4 https://github.com/jekyll/jekyll/issues/9233
 gem "liquid", ">= 4.0.4"
 
-#Fix CVE-2017-10784
-gem "webrick", "~> 2.2.8"
+#Fix CVE-2017-10784 - 2.2.8 doesn't exist. 1.8.1 is the latest as of 8/10/23
+#gem "webrick", "~> 2.2.8"
+gem "webrick", "~> 1.8.1"
