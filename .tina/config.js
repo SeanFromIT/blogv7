@@ -35,7 +35,8 @@ export default defineConfig({
           return {
             comments: true,
             date: new Date().toISOString(),
-            layout: "post"
+            layout: "post",
+            title: new Date().toISOString().substr(0, 10) + "-"
           }
         },
         fields: [
