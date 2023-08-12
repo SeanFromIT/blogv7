@@ -31,12 +31,21 @@ export default defineConfig({
         name: "post",
         label: "Posts",
         path: "_posts",
+        format: "md",
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return new Date().toISOString().substr(0, 10) + "-" + `${values?.title
+                ?.toLowerCase()
+                .replace(/ /g, '-')}`
+            }
+          }
+        },
         defaultItem: () => {
           return {
             comments: true,
             date: new Date().toISOString(),
             layout: "post",
-            title: new Date().toISOString().substr(0, 10) + "-"
           }
         },
         fields: [
