@@ -1,6 +1,6 @@
 ---
 date: 2023-08-11T01:03:15.958Z
-title: Why does your build pipeline fail even though there no changes?
+title: Why does your build pipeline fail even though there were no changes?
 description: Common causes of CI/CD pipeline failures
 comments: true
 categories:
