@@ -5,7 +5,7 @@ description: What is the AmazonSSMDirectoryServiceInstanceProfileRole role?
 comments: true
 layout: post
 categories:
-  - Aws
+  - AWS
 ---
 
 If you try to launch a Directory Service administration EC2 instance, it takes you to a page with some input parameters. One of them says: "IAM instance profile name. By Default, if no instance profile exists with the name AmazonSSMDirectoryServiceInstanceProfileRole, an instance profile with the name AmazonSSMDirectoryServiceInstanceProfileRole will be created."\
