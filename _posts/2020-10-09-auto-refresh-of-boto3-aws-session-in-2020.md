@@ -9,8 +9,8 @@ description: How to auto-refresh a boto3 session when the role has an insufficie
   session duration limit
 image: ''
 categories:
-- aws
-- " python"
+- AWS
+- python
 
 ---
 In a sufficiently large AWS environment, it's not unusual that a boto3 script may need to run for a long time. However, long runs can lead to timeouts. One solution is to increase the maximum session duration of an assumed role. But what if that's not an option?

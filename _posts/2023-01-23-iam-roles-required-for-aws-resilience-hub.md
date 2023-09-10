@@ -9,7 +9,7 @@ description: The AWS documentation is lacking so here's some Terraform
 image: ''
 categories:
 - terraform
-- aws
+- AWS
 - iam
 - security
 
