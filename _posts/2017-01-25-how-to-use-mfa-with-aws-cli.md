@@ -8,7 +8,7 @@ slug: how-to-use-mfa-with-aws-cli
 title: How to use MFA with AWS CLI
 wordpress_id: 848
 categories:
-- amazon
+- AWS
 - cloud
 - cloud computing
 ---

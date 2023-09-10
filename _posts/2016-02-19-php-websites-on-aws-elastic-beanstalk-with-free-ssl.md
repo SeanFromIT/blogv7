@@ -9,7 +9,7 @@ title: PHP Websites on AWS Elastic Beanstalk with Free SSL
 image: /assets/img/2016/02/blogCapture.PNG
 wordpress_id: 544
 categories:
-- amazon
+- AWS
 - sys admin
 - Web Apps
 - web development

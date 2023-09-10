@@ -8,7 +8,7 @@ slug: aws-command-line-options-on-mac
 title: AWS Command Line Options on Mac
 wordpress_id: 533
 categories:
-- amazon
+- AWS
 - apple
 - cloud
 - cloud computing

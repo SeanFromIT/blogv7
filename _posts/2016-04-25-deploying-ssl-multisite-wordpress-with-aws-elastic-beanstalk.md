@@ -8,7 +8,7 @@ slug: deploying-ssl-multisite-wordpress-with-aws-elastic-beanstalk
 title: Deploying SSL Multisite WordPress with AWS Elastic Beanstalk
 wordpress_id: 768
 categories:
-- amazon
+- AWS
 - blogging
 - cloud computing
 - hosting

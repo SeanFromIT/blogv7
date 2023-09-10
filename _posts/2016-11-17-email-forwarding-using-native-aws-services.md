@@ -9,7 +9,7 @@ title: Email Forwarding Using Native AWS Services
 image: /assets/img/2016/11/Snip20161117_22-768x494.png
 wordpress_id: 802
 categories:
-- amazon
+- AWS
 ---
 
 There are several ways to create an email forwarder using AWS. A few include:

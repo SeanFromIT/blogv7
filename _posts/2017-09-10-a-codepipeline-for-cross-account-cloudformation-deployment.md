@@ -9,7 +9,7 @@ slug: a-codepipeline-for-cross-account-cloudformation-deployment
 title: A CodePipeline for cross-account CloudFormation deployment
 wordpress_id: 867
 categories:
-- amazon
+- AWS
 - cloud
 - cloud computing
 - code

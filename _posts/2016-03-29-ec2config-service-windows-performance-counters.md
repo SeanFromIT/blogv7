@@ -8,7 +8,7 @@ slug: ec2config-service-windows-performance-counters
 title: EC2Config Service Windows Performance Counters
 wordpress_id: 691
 categories:
-- amazon
+- AWS
 - Microsoft
 - monitoring
 - sys admin
@@ -97,5 +97,3 @@ See also:
 
 	
   * [Using CloudWatch Logs with Amazon EC2 Running Microsoft Windows Server](https://blogs.aws.amazon.com/application-management/post/Tx1KG4IKXZ94QFK/Using-CloudWatch-Logs-with-Amazon-EC2-Running-Microsoft-Windows-Server)
-
-

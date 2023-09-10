@@ -8,7 +8,7 @@ slug: ec2-instance-migration-aws-to-aws
 title: EC2 Instance Migration (AWS to AWS)
 wordpress_id: 822
 categories:
-- amazon
+- AWS
 - cloud
 - migrations
 - sys admin
@@ -112,4 +112,3 @@ Note: If you want to snapshot the root or C:\ volume, you should shut down the i
 18. Start the target instance again
 
 19. When you are sure that you’re done with the source, you can terminate the source instance, delete its volumes, delete the snapshots of those volumes, and delete the new root volume that was discarded
-
