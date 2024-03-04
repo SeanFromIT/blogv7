@@ -12,19 +12,19 @@ SGC (Sportscard Guaranty LLC) is the third-largest trading card grading company 
 
 SGC Flip Type #1 – Issued from 1998 to mid-1999, this is the original design. It utilized a 100-point grading scale.
 
-![](/assets/img/assets/img/SGC-Old-Label-98-Score-Gem-Mint.png){width=400}
+!\[]\([https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/SGC-Old-Label-98-Score-Gem-Mint.png](https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/SGC-Old-Label-98-Score-Gem-Mint.png) | width=400)
 
 SGC Flip Type #2 – Issued from 1999 - 2000, this transitional flip has the future green label color and Sportscard Guaranty, LLC lettering rising out of the back of the slab. They temporarily dropped barcodes.
 
-![](/assets/img/assets/img/sgc-type2.png){width=400}
+!\[]\([https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-type2.png](https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-type2.png) | width=400)
 
 SGC Flip Type #3 – Issued from 2000 - 2018, this flip added the URL to the label and a gold hologram on the back of the label. The label border was green until 2017, when a perfect 100 score began getting a gold border instead.
 
-![](/assets/img/assets/img/sgc-type3.png){width=400}
+!\[]\([https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-type3.png](https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-type3.png) | width=400)
 
 SGC Flip Type #4 – Issued from 2018 - present, SGC switched to a 10-point grading scale (with possible half points) and the label border changed to black (except for perfect 10s, which remained gold). Instead of a gold hologram on the back, SGC lettering rises out of the back of the slab, similar to Type #2.
 
-![](/assets/img/assets/img/sgc-modern.png){width=400}
+!\[]\([https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-modern.png](https://assets.tina.io/d644012a-ff5c-432b-8178-266f85acd0a1/assets/img/sgc-modern.png) | width=400)
 
 In 2024, SGC was acquired by Collectors Holdings, the owner of PSA.
 
