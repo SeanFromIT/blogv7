@@ -10,17 +10,19 @@ layout: post
 
 SGC (Sportscard Guaranty LLC) is the third-largest trading card grading company behind PSA and CSG. SGC was founded in 1998, and like its biggest competitor, has changed its flip several times since then. A “flip” refers to the label on a slab as well as the slab itself, in terms of style, color, and other attributes.
 
-SGC Flip Type #1 – Issued from 1998 to mid-1999, this is the original design.
+SGC Flip Type #1 – Issued from 1998 to mid-1999, this is the original design. It utilized a 100-point grading scale.
 
 ![](/assets/img/assets/img/SGC-Old-Label-98-Score-Gem-Mint.png)
 
-SGC Flip Type #2 – Issued from 1999 - 2000
+SGC Flip Type #2 – Issued from 1999 - 2000, this transitional flip has the future green label color and Sportscard Guaranty, LLC lettering rising out of the back of the slab. They temporarily dropped barcodes.
 
-SGC Flip Type #3 – Issued from 2000 - 2018, this flip utilized a 100-point grading scale with a gold hologram on the back of the label. The label border was green until 2017, when a perfect 100 score began getting a gold border instead.
+![](/assets/img/assets/img/sgc-type2.png)
+
+SGC Flip Type #3 – Issued from 2000 - 2018, this flip added the URL to the label and a gold hologram on the back of the label. The label border was green until 2017, when a perfect 100 score began getting a gold border instead.
 
 ![](/assets/img/assets/img/sgc-type3.png)
 
-SGC Flip Type #4 – Issued from 2018 - present, SGC switched to a 10-point grading scale (with possible half points) and the label border changed to black (except for perfect 10s, which remained gold). Instead of a gold hologram on the back, SGC lettering rises out of the back of the slab.
+SGC Flip Type #4 – Issued from 2018 - present, SGC switched to a 10-point grading scale (with possible half points) and the label border changed to black (except for perfect 10s, which remained gold). Instead of a gold hologram on the back, SGC lettering rises out of the back of the slab, similar to Type #2.
 
 ![](/assets/img/assets/img/sgc-modern.png)
 
