@@ -8,10 +8,10 @@ layout: post
 
 Beckett, an established player in the cards market thanks to their monthly price guide magazines, began offering card grading services in 1999. It has experimented with several lines of business, such as:
 
-|                Beckett Grading Services (BGS)                |                Beckett Vintage Grading (BVG)                |                              Beckett Authentication Services (BAS)                             |           Beckett Collector Club Grading (BCCG)           |               Beckett Raw Card Review              |
-| :----------------------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------: |
-|              ![](/assets/img/assets/img/bgs.png)             |             ![](/assets/img/assets/img/bvg.png)             |                               ![](/assets/img/assets/img/bas.png)                              |            ![](/assets/img/assets/img/bccg.png)           | ![](/assets/img/assets/img/raw.png){: width="150"} |
-| Their most well-known offering, for cards from 1981-present. | For vintage cards pre-1981. Black labels are not available. | For aftermarket autographs. There is a sticker version, a slabbed version, and a quick opinion | A lower tier option offered from the early 2000s to 2023. |     A sticker version available at card shows.     |
+|                Beckett Grading Services (BGS)                |                Beckett Vintage Grading (BVG)                |                                                                          Beckett Authentication Services (BAS)                                                                         |           Beckett Collector Club Grading (BCCG)           |               Beckett Raw Card Review              |
+| :----------------------------------------------------------: | :---------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------: | :------------------------------------------------: |
+|              ![](/assets/img/assets/img/bgs.png)             |             ![](/assets/img/assets/img/bvg.png)             |                                                                           ![](/assets/img/assets/img/bas.png)                                                                          |            ![](/assets/img/assets/img/bccg.png)           | ![](/assets/img/assets/img/raw.png){: width="150"} |
+| Their most well-known offering, for cards from 1981-present. | For vintage cards pre-1981. Black labels are not available. | For aftermarket autographs. There is a sticker version, a slabbed version, and a quick opinion "[Signature Review](https://www.beckett-authentication.com/services/signature-review)." | A lower tier option offered from the early 2000s to 2023. |     A sticker version available at card shows.     |
 
 Beckett offers one of the few autograph grading features in the graded card world, whereas competitors tend to only offer autograph authentication services. It was first to market with subgrades for centering, corners, edges, and surface, and possibly for overall half-point grades period.
 
@@ -27,7 +27,7 @@ BGS Flip Type #1 – Issued from 1999 to 2016, this is the original design. At s
 
 BGS Flip Type #2 – Issued from mid-2016 to present, they simplified their slab design with fewer notches and incorporated an etched logo into the slab corner. The autograph grade moved to the back of the label, and subgrading became an optional extra. It can stack with the original slabs but is slightly smaller overall. A patent number is visible at the bottom – and for a while was [a way to identify fakes](https://www.sportscardradio.com/beware-fake-bgs-graded-slabs/) in addition to label font and spacing.
 
-![](/assets/img/assets/img/bgsCurrent1.jpg){: width="400"} ![](/assets/img/assets/img/bgsCurrent2.jpg){: width="400"}
+![](/assets/img/assets/img/bgsCurrent1.png){: width="400"} ![](/assets/img/assets/img/bgsCurrent2.jpg){: width="400"}
 
 Sources:
 
