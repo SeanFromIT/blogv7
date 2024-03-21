@@ -14,13 +14,13 @@ categories:
   - Good Business Practices
   - Security
   - software engineering
-comments: false
+comments: true
 layout: post
 ---
 
 I've written about the concept of \[technology debt]\({{ site.baseurl }}/understanding-the-cost-implications-of-your-software-technology-purchase.html) before, in regards to COTS systems. But what about when you have control over the source code?
 
-![Dilbert on Spaghetti Code](/assets/imghttp://kriscroes.github.io/images/blog1/dilbert.png)
+![Dilbert on Spaghetti Code](http://kriscroes.github.io/images/blog1/dilbert.png)
 
 There are a number of Software Engineering considerations that can lead to increases of this debt.
 
