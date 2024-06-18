@@ -59,7 +59,14 @@
 				{% if site.colnect_username %}
 					<li>
 						<a href="https://colnect.me/{{ site.colnect_username }}">
-							<i class="fab fa-baseball-ball"></i> &nbsp;Colnect
+							<i class="fab fa-baseball"></i> &nbsp;Colnect
+						</a>
+					</li>
+				{% endif %}
+				{% if site.hobbydb_username %}
+					<li>
+						<a href="https://www.hobbydb.com/marketplaces/hobbydb/users/{{ site.hobbydb_username }}">
+							<i class="fab fa-cube"></i> &nbsp;hobbyDB
 						</a>
 					</li>
 				{% endif %}
