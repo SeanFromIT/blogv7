@@ -38,4 +38,4 @@ gem "liquid", ">= 4.0.4"
 
 #Fix CVE-2017-10784 - 2.2.8 doesn't exist. 1.8.1 is the latest as of 8/10/23
 #gem "webrick", "~> 2.2.8"
-gem "webrick", "~> 1.8.1"
+gem "webrick", "~> 1.8.2"
