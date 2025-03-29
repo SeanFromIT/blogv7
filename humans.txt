@@ -8,10 +8,10 @@
 # THANKS
 
     Gary Webster, Kenny Young, Daniel Molina,
-    Karen Bader, Sally Mills, Dennis Pattinson,
+    Karen Bader, Sally Mills, 
     Owen Huff, Tara Davidson, Curt Clifton
 
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3, Jekyll,
-    GitHub, YouTube
+    GitHub, TinaCMS
