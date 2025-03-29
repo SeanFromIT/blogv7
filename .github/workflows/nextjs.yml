@@ -70,8 +70,7 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           SEARCH_TOKEN: ${{ secrets.SEARCH_TOKEN }}
           NEXT_PUBLIC_TINA_BRANCH: ${{ github.head_ref }}
-        #run: ${{ steps.detect-package-manager.outputs.runner }} tinacms build
-        run: pnpm build
+        run: pnpm tinacms build
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
         with:
