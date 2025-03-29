@@ -69,7 +69,6 @@ jobs:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           SEARCH_TOKEN: ${{ secrets.SEARCH_TOKEN }}
-          NEXT_PUBLIC_TINA_BRANCH: ${{ github.head_ref }}
         run: pnpm tinacms build
       - name: Build with Jekyll
         uses: actions/jekyll-build-pages@v1
