@@ -28,7 +28,7 @@ end
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'wdm', '>= 0.1.0' if Gem.win_platform?
 
 #Fix CVE-2021-xx
 gem "nokogiri", ">= 1.11.4"
@@ -38,4 +38,4 @@ gem "liquid", ">= 4.0.4"
 
 #Fix CVE-2017-10784 - 2.2.8 doesn't exist. 1.8.1 is the latest as of 8/10/23
 #gem "webrick", "~> 2.2.8"
-gem "webrick", "~> 1.8.2"
+gem "webrick", "~> 1.9.1"
