@@ -16,7 +16,7 @@ categories:
   - iphone
   - open source
   - Security
-comments: false
+comments: true
 layout: post
 ---
 
