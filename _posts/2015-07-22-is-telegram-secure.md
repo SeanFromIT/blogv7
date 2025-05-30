@@ -32,4 +32,4 @@ Sometimes you really do get what you pay for. It seems if you want truly secure 
 
 The EFF maintains a [scorecard](https://www.eff.org/secure-messaging-scorecard) for many secure messaging apps. It isn't comprehensive, but it does give Telegram's secret chat feature full marks, as well as Silent Circle and RedPhone/TextSecure. Unsurprisingly Snapchat fails the scorecard miserably.
 
-\[Update 5/29/25: Telegram announced a partnership with a questionable government agent's AI company, so you should assume its content is compromised.] 
+*\[Update 5/29/25: Telegram announced a partnership with a questionable government agent's AI company, so you should assume its content is compromised.]*
