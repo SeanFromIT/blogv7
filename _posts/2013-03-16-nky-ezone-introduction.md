@@ -20,7 +20,7 @@ layout: post
 
 Today I released my first webisode about the [NKY ezone](http://www.northernkentuckyezone.com/), a business incubator in my hometown of Covington, Kentucky. The ezone often goes unnoticed, hidden away above a bank on Madison Avenue, across the "wide river" from Cincinnati. But that's about to change...
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nC-tzf795Jk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tH8kFrKhQPY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 \[Continue to Part 2]\({{ site.baseurl }}/nky-ezone-the-process.html)
 
