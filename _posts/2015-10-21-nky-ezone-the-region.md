@@ -12,7 +12,7 @@ categories:
   - e-zone
   - northern kentucky
   - start-ups
-comments: false
+comments: true
 layout: post
 ---
 
