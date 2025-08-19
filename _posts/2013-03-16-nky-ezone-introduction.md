@@ -22,6 +22,6 @@ Today I released my first webisode about the [NKY ezone](http://www.northernkent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tH8kFrKhQPY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-\[Continue to Part 2]\({{ site.baseurl }}/nky-ezone-the-process.html)
+[Continue to Part 2](https://feeney.mba/nky-ezone-the-process.html)
 
 <a target="_blank" href="https://www.gofundme.com/f/its-our-turn-to-hold-andie/cl/d?utm_campaign=pd_ss_icons&utm_content=amp13_t1&utm_medium=customer&utm_source=copy_link&attribution_id=sl%3A6008e127-94f4-4ad9-81ff-704f285ccd89&ts=1755585403">Donate to Casey's end of life GoFundMe</a>
