@@ -8,9 +8,10 @@ comments: true
 layout: post
 ---
 
-If you notice smearing when printing, for example, a block with a lot of black ink, your Epson printer settings need to be adjusted. First, if you have not yet done so, install the Epson drivers for your printer so that you get the specialized Printer Properties dialog. Now open the thing you're trying to print and click Printer Properties (or something similar). 
+If you notice smearing when printing, for example, a block with a lot of black ink, your Epson printer settings need to be adjusted. First, if you have not yet done so, install the Epson drivers for your printer so that you get the specialized Printer Properties dialog. Now open the thing you're trying to print and click Printer Properties (or something similar).
 
 ![](/assets/img/2025/epson1.png)
+
 In the Printer Properties, click the Maintenance tab.
 
 ![](/assets/img/2025/epson2.png)
