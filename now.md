@@ -4,13 +4,14 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 23 Jan 2023
+## Last updated: 17 June 2026
 
 <section id="post" markdown="1">
 **Boards and committees:**
 * Democratic Party State Committee Member
+* Democratic Party LD Chair
 * Democratic Party Precinct Committeeman
-* Home Owners Association VP
+* Home Owners Association President
 
 If your start-up or non-profit board needs an experienced Fortune 100 alum / tech MBA who is not afraid to speak his mind, please get in touch.
 On the non-profit side, I generally spend my time with those addressing economic justice, seeking to reduce poverty and improve/fund public education.
@@ -39,9 +40,8 @@ Ideally it's something that I - and others - are passionate about and naturally 
 **Things I want to do:**
 * Relocate to Ireland
 * Get out from under the indentured servitude of student loans
-* Run for state office
 * Learn to play guitar
-* Learn to speak Gaeilge
+* Learn to speak more Gaeilge
 * Visit the Johnson Space Center in Houston
 * Visit Jungfrau Park and its inspirations like the pyramids of Egypt, Easter Island, Incan ruins at Cusco and Machu Picchu, Mayan ruins at Teotihuacán and Chichen Itza
 * Fill in my National Parks Passport with places like Yellowstone and Arches
