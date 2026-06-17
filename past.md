@@ -57,9 +57,6 @@ title: Past
 			<span title="New York 2016"><img alt="New York 2016" src="/assets/img/20160702_123509.jpg" /></span>
 		</li>
 		<li>
-			<span title="Vegas 2017"><img alt="Vegas 2017" src="/assets/img/IMG_20170215_184113.jpg" /></span>
-		</li>
-		<li class="messy3">
 			<span title="London 2016"><img alt="London 2016" src="/assets/img/20161008_100129.jpg" /></span>
 		</li>
 		<li class="messy2">
