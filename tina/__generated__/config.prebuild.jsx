@@ -1,4 +1,4 @@
-// .tina/config.js
+// tina/config.js
 import { defineConfig } from "tinacms";
 var branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "master";
 var config_default = defineConfig({
