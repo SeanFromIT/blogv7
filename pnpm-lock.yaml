@@ -1510,8 +1510,8 @@ packages:
   '@tinacms/graphql@2.4.11':
     resolution: {integrity: sha512-Bcv2hFvKkB2RyyxY3xsUruUpo2Zi90nwFcLEndo2cnUgtIpb6lnKyO5b3KJaZNw55j6b+rWwpLt6M2xaXznB7g==}
 
-  '@tinacms/mdx@2.2.2':
-    resolution: {integrity: sha512-jxyaLp/7zjUs/uSi1ghwyv3GvRSkhwsYC4Ga10cdGunwv39Y/SvtoFo1kdlqJK/2Pxe3lz4H9b4NlKDSREZkzQ==}
+  '@tinacms/mdx@2.2.3':
+    resolution: {integrity: sha512-XlCjc1wy9/1Cornln0QZJhtFsm+436/VD/F+ofMJPDcaIqY6l7qSkTvAq6DWV1Rs7JL/jR3czkE4OavOBRjJtw==}
 
   '@tinacms/metrics@2.1.3':
     resolution: {integrity: sha512-A3H2lv5fKZSpNCRASGkkq29w4RAtiJ3bMwmbDBR7JNQlOVub4hWlxMPI8Pz2BA3so8ghIWYK6NCofbhErH1pow==}
@@ -5978,7 +5978,7 @@ snapshots:
       '@graphiql/toolkit': 0.11.3(@types/node@22.17.2)(graphql@15.8.0)
       '@monaco-editor/loader': 1.7.0
       '@radix-ui/react-popover': 1.1.23(@types/react@19.2.6)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
-      '@tinacms/mdx': 2.2.2(react@18.3.1)(yup@1.7.1)
+      '@tinacms/mdx': 2.2.3(react@18.3.1)(yup@1.7.1)
       final-form: 5.0.1
       graphiql: 4.1.2(@codemirror/language@6.0.0)(@emotion/is-prop-valid@0.8.8)(@types/node@22.17.2)(@types/react@19.2.6)(graphql@15.8.0)(immer@10.2.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(use-sync-external-store@1.6.0(react@18.3.1))
       graphql: 15.8.0
@@ -6098,7 +6098,7 @@ snapshots:
   '@tinacms/graphql@2.4.11(react@18.3.1)':
     dependencies:
       '@iarna/toml': 2.2.5
-      '@tinacms/mdx': 2.2.2(react@18.3.1)(yup@1.7.1)
+      '@tinacms/mdx': 2.2.3(react@18.3.1)(yup@1.7.1)
       '@tinacms/schema-tools': 2.10.0(react@18.3.1)(yup@1.7.1)
       abstract-level: 1.0.4
       date-fns: 4.1.0
@@ -6122,7 +6122,7 @@ snapshots:
       - react-native-b4a
       - supports-color
 
-  '@tinacms/mdx@2.2.2(react@18.3.1)(yup@1.7.1)':
+  '@tinacms/mdx@2.2.3(react@18.3.1)(yup@1.7.1)':
     dependencies:
       '@tinacms/schema-tools': 2.10.0(react@18.3.1)(yup@1.7.1)
       acorn: 8.18.0
@@ -9494,7 +9494,7 @@ snapshots:
       '@react-hook/window-size': 3.1.1(react@18.3.1)
       '@tanstack/react-table': 8.21.3(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@tinacms/bridge': 0.3.1
-      '@tinacms/mdx': 2.2.2(react@18.3.1)(yup@1.7.1)
+      '@tinacms/mdx': 2.2.3(react@18.3.1)(yup@1.7.1)
       '@tinacms/schema-tools': 2.10.0(react@18.3.1)(yup@1.7.1)
       '@tinacms/search': 1.2.24(abstract-level@1.0.4)(react@18.3.1)(yup@1.7.1)
       '@udecode/cmdk': 0.2.2(@types/react@19.2.6)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
