@@ -7,6 +7,8 @@ title: Past
 
 <section id="post" markdown="1" style="min-width: 635px;">
 **Boards, committees, commissions:**
+* Democratic Party LD Chair
+* Home Owners Association President
 * Sherburne County Economic Advisory Committee
 * DFL State Central Committee Delegate
 * CD6 DFL Director

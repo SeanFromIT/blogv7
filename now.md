@@ -4,14 +4,13 @@ permalink: /now/
 title: Now
 ---
 # What I'm Up To Now
-## Last updated: 17 June 2026
+## Last updated: 27 October 2026
 
 <section id="post" markdown="1">
 **Boards and committees:**
 * Democratic Party State Committee Member
-* Democratic Party LD Chair
 * Democratic Party Precinct Committeeman
-* Home Owners Association President
+* Home Owners Association Board Member
 
 If your start-up or non-profit board needs an experienced Fortune 100 alum / tech MBA who is not afraid to speak his mind, please get in touch.
 On the non-profit side, I generally spend my time with those addressing economic justice, seeking to reduce poverty and improve/fund public education.
@@ -25,8 +24,9 @@ On the non-profit side, I generally spend my time with those addressing economic
 * Occasionally responding to [Feeney Genealogy Project](http://feeneygenealogy.com) requests for help and updating my own tree
 
 **Side Projects:**
-* Keeping [Student Loan Bill Tracker](https://studentloanbilltracker.com) up to date and advocating for solutions, political and business, to the crisis
-* I took a while off with all the relos, but every other year or so I advise senior or junior projects for my undergraduate alma mater
+* Rebooted the [Anomaly Response Network](https://anomalyresponse.com) because Facebook sucks anymore
+* Trying and failing to keep [Student Loan Bill Tracker](https://studentloanbilltracker.com) up to date and advocating for solutions, political and business, to the crisis
+* Sometimes advising senior or junior projects for my undergraduate alma mater
 
 **How I prioritize all this:**
 
@@ -45,7 +45,7 @@ Ideally it's something that I - and others - are passionate about and naturally 
 * Visit the Johnson Space Center in Houston
 * Visit Jungfrau Park and its inspirations like the pyramids of Egypt, Easter Island, Incan ruins at Cusco and Machu Picchu, Mayan ruins at Teotihuacán and Chichen Itza
 * Fill in my National Parks Passport with places like Yellowstone and Arches
-* Take the family camping & stargazing in a dark sky area
+* Take the family camping & stargazing in more dark sky areas
 * Spend more time in Italy, maybe Rome
 * More canoeing
 * Caving / spelunking
